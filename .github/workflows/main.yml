@@ -1,4 +1,20 @@
-- name: Build per-course testimonial files
+name: Sync Testimonials
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build per-course testimonial files
         run: |
           curl -L "https://docs.google.com/spreadsheets/d/1Ia7hF9vLGfdlMp-yItvCZMMYCMlPWRSJ_Lr_5dDIZD8/gviz/tq?tqx=out:csv&sheet=Course%20Ratings" -o ratings_data.csv
           curl -L "https://docs.google.com/spreadsheets/d/1Ia7hF9vLGfdlMp-yItvCZMMYCMlPWRSJ_Lr_5dDIZD8/gviz/tq?tqx=out:csv&gid=959201161" -o testimonials_data.csv
