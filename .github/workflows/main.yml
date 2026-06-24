@@ -67,6 +67,15 @@ jobs:
           for slug, items in result.items():
               with open(os.path.join(out_dir, slug + '.json'), 'w', encoding='utf-8') as f:
                   json.dump(items, f, ensure_ascii=False)
+          all_slugs = set()
+          for r in ratings:
+              link = (r.get('Course Link') or '').strip()
+              if link:
+                  all_slugs.add(link.rstrip('/').split('/')[-1])
+          for slug in all_slugs:
+              if slug not in result:
+                  with open(os.path.join(out_dir, slug + '.json'), 'w', encoding='utf-8') as f:
+                      f.write('[]')
           "
 
       - name: Commit and push
