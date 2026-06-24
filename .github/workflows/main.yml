@@ -1,0 +1,73 @@
+name: Sync Testimonials
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build testimonials.json
+        run: |
+          curl -L "https://docs.google.com/spreadsheets/d/1Ia7hF9vLGfdlMp-yItvCZMMYCMlPWRSJ_Lr_5dDIZD8/gviz/tq?tqx=out:csv&sheet=Course%20Ratings" -o ratings_data.csv
+          curl -L "https://docs.google.com/spreadsheets/d/1Ia7hF9vLGfdlMp-yItvCZMMYCMlPWRSJ_Lr_5dDIZD8/gviz/tq?tqx=out:csv&sheet=Testimonials" -o testimonials_data.csv
+          python3 -c "
+          import csv, json
+          with open('ratings_data.csv', newline='', encoding='utf-8') as f:
+              ratings = list(csv.DictReader(f))
+          with open('testimonials_data.csv', newline='', encoding='utf-8') as f:
+              testimonials = list(csv.DictReader(f))
+          name_to_link = {}
+          for r in ratings:
+              name = (r.get('Course Name') or '').strip()
+              link = (r.get('Course Link') or '').strip()
+              if name and link:
+                  name_to_link[name] = link
+          approval_col = None
+          if testimonials:
+              for col in testimonials[0].keys():
+                  if col and 'check for cnd' in col.lower():
+                      approval_col = col
+                      break
+          result = {}
+          for t in testimonials:
+              name = (t.get('Course Name') or '').strip()
+              if not name:
+                  continue
+              approved = False
+              if approval_col:
+                  val = str(t.get(approval_col, '')).strip().upper()
+                  approved = val in ('TRUE','YES','1','X','CHECKED')
+              if not approved:
+                  continue
+              link = name_to_link.get(name)
+              if not link:
+                  continue
+              slug = link.rstrip('/').split('/')[-1]
+              stars = str(t.get('Star Rating') or '').strip()
+              if stars.endswith('.0'):
+                  stars = stars[:-2]
+              result.setdefault(slug, []).append({
+                  'comment': (t.get('Comment for SURGhub') or '').strip(),
+                  'profession': (t.get('Profession') or '').strip(),
+                  'country': (t.get('Country') or '').strip(),
+                  'stars': stars
+              })
+          with open('testimonials.json', 'w', encoding='utf-8') as f:
+              json.dump(result, f, ensure_ascii=False)
+          "
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add testimonials.json
+          git diff --staged --quiet || git commit -m "Update testimonials"
+          git push
