@@ -20,46 +20,78 @@ jobs:
           curl -L "https://docs.google.com/spreadsheets/d/1Ia7hF9vLGfdlMp-yItvCZMMYCMlPWRSJ_Lr_5dDIZD8/gviz/tq?tqx=out:csv&gid=959201161" -o testimonials_data.csv
           python3 -c "
           import csv, json, os, shutil
+
           with open('ratings_data.csv', newline='', encoding='utf-8') as f:
               ratings = list(csv.DictReader(f))
           with open('testimonials_data.csv', newline='', encoding='utf-8') as f:
               testimonials = list(csv.DictReader(f))
+
           name_to_link = {}
           for r in ratings:
               name = (r.get('Course Name') or '').strip()
               link = (r.get('Course Link') or '').strip()
               if name and link:
                   name_to_link[name] = link
+
           approval_col = None
           if testimonials:
               for col in testimonials[0].keys():
                   if col and 'check for cnd' in col.lower():
                       approval_col = col
                       break
-          result = {}
+
+          state_path = 'testimonials_state.json'
+          if os.path.exists(state_path):
+              with open(state_path, encoding='utf-8') as f:
+                  state = json.load(f)
+          else:
+              state = {}
+
           for t in testimonials:
               name = (t.get('Course Name') or '').strip()
-              if not name:
+              rank = (t.get('Rank') or '').strip()
+              if not name or not rank:
                   continue
+              key = name + '|' + rank
+
               approved = False
               if approval_col:
                   val = str(t.get(approval_col,'')).strip().upper()
                   approved = val in ('TRUE','YES','1','X','CHECKED')
+
               if not approved:
                   continue
-              link = name_to_link.get(name)
-              if not link:
-                  continue
-              slug = link.rstrip('/').split('/')[-1]
+
               stars = str(t.get('Star Rating') or '').strip()
               if stars.endswith('.0'):
                   stars = stars[:-2]
-              result.setdefault(slug, []).append({
+
+              state[key] = {
+                  'course': name,
+                  'rank': rank,
                   'comment': (t.get('Comment for SURGhub') or '').strip(),
                   'profession': (t.get('Profession') or '').strip(),
                   'country': (t.get('Country') or '').strip(),
                   'stars': stars
-              })
+              }
+
+          with open(state_path, 'w', encoding='utf-8') as f:
+              json.dump(state, f, ensure_ascii=False, indent=2)
+
+          result = {}
+          for key, item in state.items():
+              link = name_to_link.get(item['course'])
+              if not link:
+                  continue
+              slug = link.rstrip('/').split('/')[-1]
+              result.setdefault(slug, []).append(item)
+
+          for slug in result:
+              result[slug].sort(key=lambda x: int(x['rank']) if x['rank'].isdigit() else 0)
+              for item in result[slug]:
+                  item.pop('course', None)
+                  item.pop('rank', None)
+
           out_dir = 'testimonials'
           if os.path.exists(out_dir):
               shutil.rmtree(out_dir)
@@ -67,6 +99,7 @@ jobs:
           for slug, items in result.items():
               with open(os.path.join(out_dir, slug + '.json'), 'w', encoding='utf-8') as f:
                   json.dump(items, f, ensure_ascii=False)
+
           all_slugs = set()
           for r in ratings:
               link = (r.get('Course Link') or '').strip()
