@@ -3054,5 +3054,53 @@
     "profession": "Estudiante de Medicina",
     "country": "Kazajistán",
     "stars": "4"
+  },
+  "template course (testing)|1": {
+    "course": "template course (testing)",
+    "rank": "1",
+    "comment": "i dont hsejsdf",
+    "profession": "Specialist Surgeon",
+    "country": "Mexico",
+    "stars": "5"
+  },
+  "template course (testing)|2": {
+    "course": "template course (testing)",
+    "rank": "2",
+    "comment": "\"Great short course, I wish I had known of this app sooner.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Mexico",
+    "stars": "5"
+  },
+  "template course (testing)|3": {
+    "course": "template course (testing)",
+    "rank": "3",
+    "comment": "\"Great short course, I wish I had known of this app sooner.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Mexico",
+    "stars": "5"
+  },
+  "template course (testing)|5": {
+    "course": "template course (testing)",
+    "rank": "5",
+    "comment": "asdfaskdjflkwehflkj",
+    "profession": "Specialist Surgeon",
+    "country": "Mexico",
+    "stars": "4"
+  },
+  "template course (testing)|7": {
+    "course": "template course (testing)",
+    "rank": "7",
+    "comment": "fwefsadfsadf",
+    "profession": "Specialist Surgeon",
+    "country": "Mexico",
+    "stars": "5"
+  },
+  "template course (testing)|8": {
+    "course": "template course (testing)",
+    "rank": "8",
+    "comment": "asdasd asdf 2026",
+    "profession": "Specialist Surgeon",
+    "country": "Mexico",
+    "stars": "3"
   }
 }
