@@ -3102,5 +3102,29 @@
     "profession": "Specialist Surgeon",
     "country": "Mexico",
     "stars": "3"
+  },
+  "Conversión de Analgesia Epidural para Labor a Anestesia para Operación Cesárea|1": {
+    "course": "Conversión de Analgesia Epidural para Labor a Anestesia para Operación Cesárea",
+    "rank": "1",
+    "comment": "\"Perfecto.\"",
+    "profession": "Estudiante de posgrado en Medicina de Urgencias",
+    "country": "Tailandia",
+    "stars": "5"
+  },
+  "Conversión de Analgesia Epidural para Labor a Anestesia para Operación Cesárea|2": {
+    "course": "Conversión de Analgesia Epidural para Labor a Anestesia para Operación Cesárea",
+    "rank": "2",
+    "comment": "\"El contenido del curso es excelente y claro.\"",
+    "profession": "Ginecólogo",
+    "country": "Ruanda",
+    "stars": "5"
+  },
+  "Conversión de Analgesia Epidural para Labor a Anestesia para Operación Cesárea|3": {
+    "course": "Conversión de Analgesia Epidural para Labor a Anestesia para Operación Cesárea",
+    "rank": "3",
+    "comment": "\"Este curso es sencillo y está muy bien impartido.\"",
+    "profession": "Anestesiólogo",
+    "country": "Irak",
+    "stars": "5"
   }
 }
