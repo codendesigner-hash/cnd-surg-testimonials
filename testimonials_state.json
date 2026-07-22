@@ -3150,5 +3150,37 @@
     "profession": "Medical Student",
     "country": "Senegal",
     "stars": "4"
+  },
+  "Ultrasound Guided Femoral Nerve Block|1": {
+    "course": "Ultrasound Guided Femoral Nerve Block",
+    "rank": "1",
+    "comment": "\"I enjoyed learning about in plane and out of plane techniques of injection.\"",
+    "profession": "General Medical Officer",
+    "country": "Uganda",
+    "stars": "5"
+  },
+  "Ultrasound Guided Femoral Nerve Block|2": {
+    "course": "Ultrasound Guided Femoral Nerve Block",
+    "rank": "2",
+    "comment": "\"I liked the visualisation of the echo images.\"",
+    "profession": "Anaesthesiologist",
+    "country": "Suriname",
+    "stars": "5"
+  },
+  "Ultrasound Guided Femoral Nerve Block|3": {
+    "course": "Ultrasound Guided Femoral Nerve Block",
+    "rank": "3",
+    "comment": "\"I found most interesting the ultrasound guided pictures with instructions.\"",
+    "profession": "Medicine Student",
+    "country": "Lithuania",
+    "stars": "5"
+  },
+  "Ultrasound Guided Femoral Nerve Block|4": {
+    "course": "Ultrasound Guided Femoral Nerve Block",
+    "rank": "4",
+    "comment": "\"I liked the figures and the quiz.\"",
+    "profession": "Anaesthesia Technician",
+    "country": "Ethiopia",
+    "stars": "5"
   }
 }
