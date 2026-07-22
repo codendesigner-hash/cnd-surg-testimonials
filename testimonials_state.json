@@ -3126,5 +3126,29 @@
     "profession": "Anestesiólogo",
     "country": "Irak",
     "stars": "5"
+  },
+  "Perioperative Blood Management in the Pediatric Patient|1": {
+    "course": "Perioperative Blood Management in the Pediatric Patient",
+    "rank": "1",
+    "comment": "\"Straightforward, easy-to-complete course.\"",
+    "profession": "Educator & Researcher",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Perioperative Blood Management in the Pediatric Patient|2": {
+    "course": "Perioperative Blood Management in the Pediatric Patient",
+    "rank": "2",
+    "comment": "\"It was short and precise, and there is a post test to check our understanding.\"",
+    "profession": "Gynaecologist",
+    "country": "Nepal",
+    "stars": "4"
+  },
+  "Perioperative Blood Management in the Pediatric Patient|3": {
+    "course": "Perioperative Blood Management in the Pediatric Patient",
+    "rank": "3",
+    "comment": "\"Everything was well explained.\"",
+    "profession": "Medical Student",
+    "country": "Senegal",
+    "stars": "4"
   }
 }
