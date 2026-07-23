@@ -3182,5 +3182,45 @@
     "profession": "Anaesthesia Technician",
     "country": "Ethiopia",
     "stars": "5"
+  },
+  "Video Consultations|1": {
+    "course": "Video Consultations",
+    "rank": "1",
+    "comment": "\"I enjoyed how clear the narrator's voice was, it made it easy to follow along. I also loved the illustrations which helped break the monotony. I am also a fan of the research papers and other additional content provided.\"",
+    "profession": "General Medical Officer",
+    "country": "Kenya",
+    "stars": "5"
+  },
+  "Video Consultations|2": {
+    "course": "Video Consultations",
+    "rank": "2",
+    "comment": "\"Scenarios were fantastic in demonstrating positive and negative aspects of video consultations.\"",
+    "profession": "Physician",
+    "country": "Australia",
+    "stars": "5"
+  },
+  "Video Consultations|3": {
+    "course": "Video Consultations",
+    "rank": "3",
+    "comment": "\"I liked the scenario videos of each patient and caregiver in various fields.\"",
+    "profession": "Non-Clinical Professional",
+    "country": "Nigeria",
+    "stars": "5"
+  },
+  "Video Consultations|4": {
+    "course": "Video Consultations",
+    "rank": "4",
+    "comment": "\"More courses like this would be great.\"",
+    "profession": "General Medical Officer",
+    "country": "Australia",
+    "stars": "5"
+  },
+  "Video Consultations|5": {
+    "course": "Video Consultations",
+    "rank": "5",
+    "comment": "\"I found the part on zoom fatigue interesting.\"",
+    "profession": "Medical Student",
+    "country": "Rwanda",
+    "stars": "4"
   }
 }
