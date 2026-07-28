@@ -3422,5 +3422,141 @@
     "profession": "Physician",
     "country": "Bangladesh",
     "stars": "4"
+  },
+  "Nerve Stimulation for Peripheral Nerve Blockade|1": {
+    "course": "Nerve Stimulation for Peripheral Nerve Blockade",
+    "rank": "1",
+    "comment": "\"I enjoyed the sections on the physics of anesthesia which were highly engaging. I particularly enjoyed how theoretical physical laws were directly linked to clinical practice and nerve block procedures.\"",
+    "profession": "SURGhub Learner",
+    "country": "",
+    "stars": "5"
+  },
+  "Nerve Stimulation for Peripheral Nerve Blockade|2": {
+    "course": "Nerve Stimulation for Peripheral Nerve Blockade",
+    "rank": "2",
+    "comment": "\"A good review for fresh starters as always.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Ethiopia",
+    "stars": "5"
+  },
+  "Nerve Stimulation for Peripheral Nerve Blockade|3": {
+    "course": "Nerve Stimulation for Peripheral Nerve Blockade",
+    "rank": "3",
+    "comment": "\"I enjoyed the section on the voltage of nerve conductivity.\"",
+    "profession": "Non-Physician Clinician",
+    "country": "Australia",
+    "stars": "5"
+  },
+  "Pressure Sore Reconstruction|1": {
+    "course": "Pressure Sore Reconstruction",
+    "rank": "1",
+    "comment": "\"It was an interactive session and I enjoyed the aspect of thinking about Marjolin's ulcer and the threshold for biopsy. I also found the aspect of autonomic dysreflexia interesting too.\"",
+    "profession": "Practicing General Surgeon",
+    "country": "Sierra Leone",
+    "stars": "5"
+  },
+  "Pressure Sore Reconstruction|2": {
+    "course": "Pressure Sore Reconstruction",
+    "rank": "2",
+    "comment": "\"I enjoyed learning about wound debridement, tissue cultures over pus swabs, and perforating tissue flaps.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Uganda",
+    "stars": "5"
+  },
+  "Pressure Sore Reconstruction|3": {
+    "course": "Pressure Sore Reconstruction",
+    "rank": "3",
+    "comment": "\"I enjoyed the most the section on management of pressure sores, mostly monitoring of flaps.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Rwanda",
+    "stars": "5"
+  },
+  "Pressure Sore Reconstruction|4": {
+    "course": "Pressure Sore Reconstruction",
+    "rank": "4",
+    "comment": "\"I liked the section on socioeconomic considerations that guide peri-operative decision making.\"",
+    "profession": "SURGhub Learner",
+    "country": "South Africa",
+    "stars": "5"
+  },
+  "Pressure Sore Reconstruction|5": {
+    "course": "Pressure Sore Reconstruction",
+    "rank": "5",
+    "comment": "\"I like the section on diagnosing and managing patients who develop autonomic dysreflxia.\"",
+    "profession": "SURGhub Learner",
+    "country": "Sudan",
+    "stars": "4"
+  },
+  "Vascular Malformations|1": {
+    "course": "Vascular Malformations",
+    "rank": "1",
+    "comment": "\"I found the detailed explanation of the different types of vascular malformations particularly interesting. The discussion of their clinical presentations, associated complications, and the Schobinger staging system for AVMs was especially valuable. I also appreciated the practical surgical cases. These real examples made the content clear, applicable, and clinically relevant.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Uzbekistan",
+    "stars": "5"
+  },
+  "Vascular Malformations|2": {
+    "course": "Vascular Malformations",
+    "rank": "2",
+    "comment": "\"I found all the aspects of the course very interesting.\"",
+    "profession": "Physician",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Vascular Malformations|3": {
+    "course": "Vascular Malformations",
+    "rank": "3",
+    "comment": "\"I particularly liked the classification, which is the key to proper diagnosis and treatment.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Egypt",
+    "stars": "5"
+  },
+  "Vascular Malformations|4": {
+    "course": "Vascular Malformations",
+    "rank": "4",
+    "comment": "\"I found this course a very informative indication of surgical treatment of VM.\"",
+    "profession": "SURGhub Learner",
+    "country": "United Kingdom",
+    "stars": "5"
+  },
+  "Vascular Malformations|5": {
+    "course": "Vascular Malformations",
+    "rank": "5",
+    "comment": "\"Clear and systematically mapped out overview.\"",
+    "profession": "Physician",
+    "country": "Hong Kong",
+    "stars": "5"
+  },
+  "Vascular Malformations|6": {
+    "course": "Vascular Malformations",
+    "rank": "6",
+    "comment": "\"I enjoyed learning about the stages in the Schobinger system.\"",
+    "profession": "Practicing General Surgeon",
+    "country": "Sierra Leone",
+    "stars": "4"
+  },
+  "Anestesia para Craneotomía y Resección de Tumor Cerebral|1": {
+    "course": "Anestesia para Craneotomía y Resección de Tumor Cerebral",
+    "rank": "1",
+    "comment": "\"Me han gustado las indicaciones para la inducción.\"",
+    "profession": "Anestesiólogo",
+    "country": "Guatemala",
+    "stars": "5"
+  },
+  "Anestesia para Craneotomía y Resección de Tumor Cerebral|2": {
+    "course": "Anestesia para Craneotomía y Resección de Tumor Cerebral",
+    "rank": "2",
+    "comment": "\"Perfecto.\"",
+    "profession": "Cirujano Oral",
+    "country": "México",
+    "stars": "5"
+  },
+  "Anestesia para Craneotomía y Resección de Tumor Cerebral|3": {
+    "course": "Anestesia para Craneotomía y Resección de Tumor Cerebral",
+    "rank": "3",
+    "comment": "\"Me ha gustado el contenido.\"",
+    "profession": "Estudiante de Enfermería",
+    "country": "México",
+    "stars": "5"
   }
 }
