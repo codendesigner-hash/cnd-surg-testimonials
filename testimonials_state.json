@@ -434,7 +434,7 @@
   "Anaesthesia for Posterior Cranial Fossa Surgery|1": {
     "course": "Anaesthesia for Posterior Cranial Fossa Surgery",
     "rank": "1",
-    "comment": "\"One of the most engaging aspects of the Anaesthesia for Posterior Cranial Fossa Surgery course was the detailed focus on anaesthesia technique specific to this challenging surgical area. The content effectively highlighted the unique physiological and anatomical considerations. These elements combined to provide a clear, evidence-based understanding of how anaesthesia in this region must be tailored to minimize complications and support optimal surgical outcomes.\"",
+    "comment": "\"The content effectively highlighted the unique physiological and anatomical considerations. These elements combined to provide a clear, evidence-based understanding of how anaesthesia in this region must be tailored to minimize complications and support optimal surgical outcomes.\"",
     "profession": "Non-Clinical Professional",
     "country": "Antigua and Barbuda",
     "stars": "5"
@@ -3750,5 +3750,77 @@
     "profession": "Anaesthesiologist",
     "country": "Philippines",
     "stars": "4"
+  },
+  "Obstetrics in the Setting of Remote Retrieval Medicine|1": {
+    "course": "Obstetrics in the Setting of Remote Retrieval Medicine",
+    "rank": "1",
+    "comment": "\"This course bridges clinical obstetrics with emergency medicine and transport logistics, which is rare. It forces learners to think beyond the hospital walls and consider how geography, infrastructure, and communication shape maternal outcomes.\"",
+    "profession": "Medical Student",
+    "country": "Rwanda",
+    "stars": "5"
+  },
+  "Obstetrics in the Setting of Remote Retrieval Medicine|2": {
+    "course": "Obstetrics in the Setting of Remote Retrieval Medicine",
+    "rank": "2",
+    "comment": "\"The modules on postpartum haemorrhage (PPH) were especially powerful. I learned tools I can use immediately in practice. But beyond the facts, what stood out was the emotional intelligence woven into the training—reminding us that normal vital signs can be misleading, and that vigilance saves lives. It made me feel more prepared, more empowered, and more connected to the mission of safe maternal care.\"",
+    "profession": "Nurse",
+    "country": "Sierra Leone",
+    "stars": "5"
+  },
+  "Obstetrics in the Setting of Remote Retrieval Medicine|3": {
+    "course": "Obstetrics in the Setting of Remote Retrieval Medicine",
+    "rank": "3",
+    "comment": "\"What I found most interesting in this course was learning how to manage obstetric emergencies, such as postpartum hemorrhage, preeclampsia, and preterm labor. It was very valuable to see how to make quick, evidence-based decisions and practice skills that help both the mother and the baby.\"",
+    "profession": "Gynaecologist",
+    "country": "Rwanda",
+    "stars": "5"
+  },
+  "Obstetrics in the Setting of Remote Retrieval Medicine|4": {
+    "course": "Obstetrics in the Setting of Remote Retrieval Medicine",
+    "rank": "4",
+    "comment": "\"The course provided practical, real-world knowledge about maternal and neonatal care that I can apply in emergency situations. Clear explanations of obstetric emergencies, such as postpartum haemorrhage and preterm labour, were very helpful.\"",
+    "profession": "Physician",
+    "country": "Morocco",
+    "stars": "5"
+  },
+  "Obstetrics in the Setting of Remote Retrieval Medicine|5": {
+    "course": "Obstetrics in the Setting of Remote Retrieval Medicine",
+    "rank": "5",
+    "comment": "\"The practical scenarios, illustrated by the cases, were interesting to read and learn from. It allowed the opportunity to reflect on practical scenarios that you have seen and managed at work and allowed me to form a strong association with the content. The layout on the content for the management of each case, in terms of predeparture management and management by retrieval team, was a useful approach and template to use and build on.\"",
+    "profession": "Anaesthesiologist",
+    "country": "South Africa",
+    "stars": "5"
+  },
+  "Obstetrics in the Setting of Remote Retrieval Medicine|6": {
+    "course": "Obstetrics in the Setting of Remote Retrieval Medicine",
+    "rank": "6",
+    "comment": "\"I found this course very helpful information for learning, practical and relevant information about managing obstetrics and gynecological cases while in utmost remote health settings.\"",
+    "profession": "Nurse Anaesthetist",
+    "country": "Papua New Guinea",
+    "stars": "5"
+  },
+  "Obstetrics in the Setting of Remote Retrieval Medicine|7": {
+    "course": "Obstetrics in the Setting of Remote Retrieval Medicine",
+    "rank": "7",
+    "comment": "\"I loved every single aspect of the course, highly valuable! Thank you!\"",
+    "profession": "Physician",
+    "country": "Mexico",
+    "stars": "5"
+  },
+  "Obstetrics in the Setting of Remote Retrieval Medicine|8": {
+    "course": "Obstetrics in the Setting of Remote Retrieval Medicine",
+    "rank": "8",
+    "comment": "\"I enjoyed this course and it has helped me a lot in my knowledge.\"",
+    "profession": "Nurse",
+    "country": "Malawi",
+    "stars": "5"
+  },
+  "Understanding Local Anaesthetic Systemic Toxicity LAST|3": {
+    "course": "Understanding Local Anaesthetic Systemic Toxicity LAST",
+    "rank": "3",
+    "comment": "\"I liked the format of each slide being a question and the content of the slide being an answer.\"",
+    "profession": "Nurse",
+    "country": "United States",
+    "stars": "5"
   }
 }
