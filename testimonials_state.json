@@ -458,7 +458,7 @@
   "Anaesthesia for Tissue Free-Flap Surgery|1": {
     "course": "Anaesthesia for Tissue Free-Flap Surgery",
     "rank": "1",
-    "comment": "\"I enjoyed the focus on surgical safety, especially the implementation of checklists, teamwork, and communication in preventing errors, is crucial for improving patient outcomes. Additionally, the detailed discussions on microvascular reconstructive surgery, flap perfusion, and post-operative care are particularly fascinating because they delve into the complexities of managing delicate surgical procedures and optimizing healing.\"",
+    "comment": "\"I enjoyed the focus on surgical safety, especially the implementation of checklists, teamwork, and communication in preventing errors. Additionally, the detailed discussions on microvascular reconstructive surgery, flap perfusion, and post-operative care are particularly fascinating.\"",
     "profession": "Medical Student",
     "country": "Myanmar",
     "stars": "5"
@@ -3958,5 +3958,61 @@
     "profession": "Specialist Surgeon",
     "country": "Kenya",
     "stars": "4"
+  },
+  "Speaking up in the Operating Room Escalating Concerns|1": {
+    "course": "Speaking up in the Operating Room Escalating Concerns",
+    "rank": "1",
+    "comment": "\"The properly simplified version of such an important but overlooked topic is the most interesting for me. I work in perioperative department. This course is very helpful and easy to navigate for information.\"",
+    "profession": "Nurse",
+    "country": "United Kingdom",
+    "stars": "5"
+  },
+  "Speaking up in the Operating Room Escalating Concerns|2": {
+    "course": "Speaking up in the Operating Room Escalating Concerns",
+    "rank": "2",
+    "comment": "\"Simple overview of how important communication is. I like it as it is theatre specific.\"",
+    "profession": "Nurse",
+    "country": "Australia",
+    "stars": "5"
+  },
+  "Speaking up in the Operating Room Escalating Concerns|4": {
+    "course": "Speaking up in the Operating Room Escalating Concerns",
+    "rank": "4",
+    "comment": "\"I found that this course facilitates creation of a smooth environment for communication to avoid medical error.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Ethiopia",
+    "stars": "5"
+  },
+  "Speaking up in the Operating Room Escalating Concerns|7": {
+    "course": "Speaking up in the Operating Room Escalating Concerns",
+    "rank": "7",
+    "comment": "\"I found this to be a well-structured course with relevant communication skills.\"",
+    "profession": "Medical Student",
+    "country": "Kenya",
+    "stars": "5"
+  },
+  "Speaking up in the Operating Room Escalating Concerns|8": {
+    "course": "Speaking up in the Operating Room Escalating Concerns",
+    "rank": "8",
+    "comment": "\"I found the direction of the information across the course to be particularly valuable.\"",
+    "profession": "Medical Student",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Speaking up in the Operating Room Escalating Concerns|9": {
+    "course": "Speaking up in the Operating Room Escalating Concerns",
+    "rank": "9",
+    "comment": "\"These course communication tools are designed to reduce the probability of error.\"",
+    "profession": "Nurse Anaesthetist",
+    "country": "South Africa",
+    "stars": "4"
+  },
+  "Speaking up in the Operating Room Escalating Concerns|10": {
+    "course": "Speaking up in the Operating Room Escalating Concerns",
+    "rank": "10",
+    "comment": "\"I found the different tools used to raise concerns to be particularly valuable.\"",
+    "profession": "Nurse",
+    "country": "United Kingdom",
+    "stars": "5"
   }
 }
