@@ -4014,5 +4014,45 @@
     "profession": "Nurse",
     "country": "United Kingdom",
     "stars": "5"
+  },
+  "Lavado de Manos, Asepsia, Desinfección y Esterilización|1": {
+    "course": "Lavado de Manos, Asepsia, Desinfección y Esterilización",
+    "rank": "1",
+    "comment": "\"El uso de diapositivas como recurso audiovisual, junto con imágenes y la transcripción del video disponible, fue un elemento muy valioso del curso.\"",
+    "profession": "Enfermero",
+    "country": "Puerto Rico",
+    "stars": "5"
+  },
+  "Lavado de Manos, Asepsia, Desinfección y Esterilización|2": {
+    "course": "Lavado de Manos, Asepsia, Desinfección y Esterilización",
+    "rank": "2",
+    "comment": "\"Excelente curso para desarrollar habilidades y conocimientos.\"",
+    "profession": "Enfermero",
+    "country": "México",
+    "stars": "5"
+  },
+  "Lavado de Manos, Asepsia, Desinfección y Esterilización|3": {
+    "course": "Lavado de Manos, Asepsia, Desinfección y Esterilización",
+    "rank": "3",
+    "comment": "\"I found this course es un buen curso de mucho aprendizaje.\"",
+    "profession": "Anaesthesiologist",
+    "country": "Argelia",
+    "stars": "5"
+  },
+  "Lavado de Manos, Asepsia, Desinfección y Esterilización|4": {
+    "course": "Lavado de Manos, Asepsia, Desinfección y Esterilización",
+    "rank": "4",
+    "comment": "\"Es un buen curso con mucho contenido de aprendizaje.\"",
+    "profession": "Estudiante De Enfermería",
+    "country": "México",
+    "stars": "5"
+  },
+  "Lavado de Manos, Asepsia, Desinfección y Esterilización|5": {
+    "course": "Lavado de Manos, Asepsia, Desinfección y Esterilización",
+    "rank": "5",
+    "comment": "\"Explicación clara y precisa.\"",
+    "profession": "Enfermero",
+    "country": "México",
+    "stars": "5"
   }
 }
