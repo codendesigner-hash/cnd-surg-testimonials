@@ -3822,5 +3822,141 @@
     "profession": "Nurse",
     "country": "United States",
     "stars": "5"
+  },
+  "Facial Paralysis|1": {
+    "course": "Facial Paralysis",
+    "rank": "1",
+    "comment": "\"I found the integration of anatomy, timing, and surgical decision-making in facial reanimation to be the most interesting part of the course. I was also particularly engaged by the case presentations, which illustrated real clinical decision-making.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Mexico",
+    "stars": "5"
+  },
+  "Facial Paralysis|2": {
+    "course": "Facial Paralysis",
+    "rank": "2",
+    "comment": "\"The aspects that I found more interesting was the anatomy of facial nerve and procedures.\"",
+    "profession": "Physiotherapist",
+    "country": "Norway",
+    "stars": "5"
+  },
+  "Facial Paralysis|3": {
+    "course": "Facial Paralysis",
+    "rank": "3",
+    "comment": "\"I found this course very systematic, always reminding the reader of the basics.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Qatar",
+    "stars": "5"
+  },
+  "Facial Paralysis|4": {
+    "course": "Facial Paralysis",
+    "rank": "4",
+    "comment": "\"I liked learning about the choice of treatment vs time since injury.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Uganda",
+    "stars": "5"
+  },
+  "Head and Neck Reconstruction|1": {
+    "course": "Head and Neck Reconstruction",
+    "rank": "1",
+    "comment": "\"This course is very objective in explaining grafting in head and neck reconstruction. All of the course was interesting and the cases helped a lot to improve my learning.\"",
+    "profession": "Dentistry Student",
+    "country": "Brazil",
+    "stars": "5"
+  },
+  "Head and Neck Reconstruction|2": {
+    "course": "Head and Neck Reconstruction",
+    "rank": "2",
+    "comment": "\"This course was very interesting, engaging, user friendly and most of all, it was very useful to me.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Tanzania",
+    "stars": "5"
+  },
+  "Head and Neck Reconstruction|3": {
+    "course": "Head and Neck Reconstruction",
+    "rank": "3",
+    "comment": "\"I enjoyed the case discussion part and the summary of the workhorse flaps and their application.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Ethiopia",
+    "stars": "5"
+  },
+  "Head and Neck Reconstruction|4": {
+    "course": "Head and Neck Reconstruction",
+    "rank": "4",
+    "comment": "\"Excellent course, very interesting and clear. I really enjoyed this one.\"",
+    "profession": "SURGhub Learner",
+    "country": "Mexico",
+    "stars": "5"
+  },
+  "Perioperative Medicine An Overview|1": {
+    "course": "Perioperative Medicine An Overview",
+    "rank": "1",
+    "comment": "\"The most interesting part was the aspect of prehabilitation and the statement to change the mindset of being on a waiting list for a surgery to preparing for a surgery.\"",
+    "profession": "Medical Student",
+    "country": "United Kingdom",
+    "stars": "5"
+  },
+  "Perioperative Medicine An Overview|2": {
+    "course": "Perioperative Medicine An Overview",
+    "rank": "2",
+    "comment": "\"The course was very informative and well-structured. I especially appreciated the practical examples and clear explanations.\"",
+    "profession": "Medical Student",
+    "country": "Kazakhstan",
+    "stars": "4"
+  },
+  "Perioperative Medicine An Overview|3": {
+    "course": "Perioperative Medicine An Overview",
+    "rank": "3",
+    "comment": "\"The overall course content was great.\"",
+    "profession": "Anaesthesia Technician",
+    "country": "Namibia",
+    "stars": "5"
+  },
+  "Perioperative Medicine An Overview|4": {
+    "course": "Perioperative Medicine An Overview",
+    "rank": "4",
+    "comment": "\"The key points are strategically explained. It helped keep me focused, despite my busy schedule.\"",
+    "profession": "SURGhub Learner",
+    "country": "",
+    "stars": "5"
+  },
+  "Perioperative Medicine An Overview|5": {
+    "course": "Perioperative Medicine An Overview",
+    "rank": "5",
+    "comment": "\"Great course, very informative, helpful to have references attached at the end to see further research.\"",
+    "profession": "Nurse",
+    "country": "United Kingdom",
+    "stars": "4"
+  },
+  "Practical Considerations to Access the Epidural Space|1": {
+    "course": "Practical Considerations to Access the Epidural Space",
+    "rank": "1",
+    "comment": "\"Very helpful and informative course tutorial. Really appreciate going through and answering the quiz questions.\"",
+    "profession": "Nurse Anaesthetist",
+    "country": "Papua New Guinea",
+    "stars": "5"
+  },
+  "Practical Considerations to Access the Epidural Space|2": {
+    "course": "Practical Considerations to Access the Epidural Space",
+    "rank": "2",
+    "comment": "\"I liked learning about the difference between epidurals and spinals, and the different epidural techniques.\"",
+    "profession": "General Medical Officer",
+    "country": "South Africa",
+    "stars": "5"
+  },
+  "Practical Considerations to Access the Epidural Space|3": {
+    "course": "Practical Considerations to Access the Epidural Space",
+    "rank": "3",
+    "comment": "\"Everything is interesting in this course.\"",
+    "profession": "Non-Physician Clinician",
+    "country": "Democratic Republic of the Congo",
+    "stars": "5"
+  },
+  "Practical Considerations to Access the Epidural Space|4": {
+    "course": "Practical Considerations to Access the Epidural Space",
+    "rank": "4",
+    "comment": "\"Very informative course.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Kenya",
+    "stars": "4"
   }
 }
