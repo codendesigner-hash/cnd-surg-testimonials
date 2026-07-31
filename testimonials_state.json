@@ -4054,5 +4054,109 @@
     "profession": "Enfermero",
     "country": "México",
     "stars": "5"
+  },
+  "Ear Reconstruction|2": {
+    "course": "Ear Reconstruction",
+    "rank": "2",
+    "comment": "\"I liked the techniques and tips of the different options of management.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Chad",
+    "stars": "5"
+  },
+  "Ear Reconstruction|3": {
+    "course": "Ear Reconstruction",
+    "rank": "3",
+    "comment": "\"I found most interesting the emphasis on early intervention, especially the use of ear molding in newborns within the first few weeks of life. It demonstrates the importance of timing in treating ear deformities without the need for invasive surgery.\"",
+    "profession": "SURGhub Learner",
+    "country": "Mexico",
+    "stars": "5"
+  },
+  "Ear Reconstruction|4": {
+    "course": "Ear Reconstruction",
+    "rank": "4",
+    "comment": "\"It was a good experience learning about the surgical procedure of the ear.\"",
+    "profession": "SURGhub Learner",
+    "country": "",
+    "stars": "5"
+  },
+  "Nasal Reconstruction|1": {
+    "course": "Nasal Reconstruction",
+    "rank": "1",
+    "comment": "\"The most interesting aspects of the nasal reconstruction course were the detailed breakdown of anatomical variations, the step-by-step explanation of techniques, and the practical surgical decision-making tips shared by the instructors. I particularly appreciated the focus on functional–aesthetic balance, graft selection, and complication management, which gave me a deeper and more structured understanding of modern approaches to nasal reconstruction.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Uzbekistan",
+    "stars": "5"
+  },
+  "Nasal Reconstruction|2": {
+    "course": "Nasal Reconstruction",
+    "rank": "2",
+    "comment": "\"The presentation was well detailed, and the diagrams eased my understanding of the concepts. The ladder system was well portrayed and I can't wait to practice it on the ground. This has made constructive surgery all interesting!\"",
+    "profession": "General Medical Officer",
+    "country": "Malawi",
+    "stars": "5"
+  },
+  "Nasal Reconstruction|3": {
+    "course": "Nasal Reconstruction",
+    "rank": "3",
+    "comment": "\"I found the reconstruction work up to be very interesting.\"",
+    "profession": "General Medical Officer",
+    "country": "Nepal",
+    "stars": "4"
+  },
+  "Overview of Skin Cancer|1": {
+    "course": "Overview of Skin Cancer",
+    "rank": "1",
+    "comment": "\"An amazing course that is poised to boost the confidence and skills of practitioners interested in skin cancer care. Awesome!\"",
+    "profession": "Practicing General Surgeon",
+    "country": "Sierra Leone",
+    "stars": "5"
+  },
+  "Overview of Skin Cancer|2": {
+    "course": "Overview of Skin Cancer",
+    "rank": "2",
+    "comment": "\"One of the most interesting aspects of this course was understanding the different types of skin cancer, particularly and how their behavior, risk factors, and management differ. I found it especially valuable to learn how clinical features such as lesion size, borders, and location influence treatment decisions. This course enhanced my ability to approach skin lesions systematically and reinforced the importance of timely diagnosis in improving patient outcomes.\"",
+    "profession": "SURGhub Learner",
+    "country": "",
+    "stars": "5"
+  },
+  "Overview of Skin Cancer|3": {
+    "course": "Overview of Skin Cancer",
+    "rank": "3",
+    "comment": "\"Very good course.\"",
+    "profession": "Emergency Medicine Doctor",
+    "country": "India",
+    "stars": "5"
+  },
+  "Overview of Skin Cancer|4": {
+    "course": "Overview of Skin Cancer",
+    "rank": "4",
+    "comment": "\"This course helped me to know more about carcinoma.\"",
+    "profession": "Nurse",
+    "country": "Rwanda",
+    "stars": "5"
+  },
+  "Overview of Skin Cancer|5": {
+    "course": "Overview of Skin Cancer",
+    "rank": "5",
+    "comment": "\"I found the clinical features most interesting. Learning how to spot different skin cancers by their appearance made it feel practical. The link between UV exposure and DNA damage also made the topic clear and logical. I also liked how each type behaves differently, which helps in real diagnosis.\"",
+    "profession": "SURGhub Learner",
+    "country": "",
+    "stars": "4"
+  },
+  "Overview of Skin Cancer|6": {
+    "course": "Overview of Skin Cancer",
+    "rank": "6",
+    "comment": "\"I liked the inclusion of rare atypical cutaneous cancers.\"",
+    "profession": "General Medical Officer",
+    "country": "South Africa",
+    "stars": "4"
+  },
+  "Suture Technique|7": {
+    "course": "Suture Technique",
+    "rank": "7",
+    "comment": "\"Overall, the course was very useful. I appreciate the opportunity to learn about suturing techniques online.\"",
+    "profession": "Anaesthesia Technician",
+    "country": "Iraq",
+    "stars": "4"
   }
 }
