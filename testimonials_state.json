@@ -706,7 +706,7 @@
   "Basic Principles of Wound Management|1": {
     "course": "Basic Principles of Wound Management",
     "rank": "1",
-    "comment": "\"I found the mechanisms of action of drugs to be the most interesting aspect of this course. I was also particularly interested in learning about drug indications beyond their primary use, such as Topiramate for migraine prevention and amphetamines for ADHD and narcolepsy. Additionally, studying adverse effects and contraindications was valuable because it reinforces safe prescribing and patient-centered care.\"",
+    "comment": "\"I found the mechanisms of action of drugs to be the most interesting aspect of this course. I was also particularly interested in learning about drug indications beyond their primary use. Additionally, studying adverse effects and contraindications was valuable because it reinforces safe prescribing and patient-centered care.\"",
     "profession": "Nurse Anaesthetist",
     "country": "Somalia",
     "stars": "5"
@@ -714,7 +714,7 @@
   "Basic Principles of Wound Management|2": {
     "course": "Basic Principles of Wound Management",
     "rank": "2",
-    "comment": "\"One of the most interesting aspects of the course was learning about the triage system and how it helps prioritize patient care in high-pressure situations. Understanding how to quickly assess and categorize injuries using systems like START gave me a clear picture of how critical thinking and rapid decision-making are applied in real-life emergencies. I also found the team coordination and role assignment during mass casualty incidents particularly fascinating. Additionally, the integration of mental health support for both victims and responders was a powerful reminder of the emotional impact of disasters.\"",
+    "comment": "\"I liked learning about the triage system and how it helps prioritize patient care in high-pressure situations. Understanding how to quickly assess and categorize injuries gave me a clear picture of how critical thinking and rapid decision-making are applied in real-life emergencies. I also found the team coordination and role assignment during mass casualty incidents particularly fascinating. Additionally, the integration of mental health support for both victims and responders was a powerful reminder of the emotional impact of disasters.\"",
     "profession": "Non-Physician Clinician",
     "country": "United Arab Emirates",
     "stars": "5"
@@ -722,7 +722,7 @@
   "Basic Principles of Wound Management|3": {
     "course": "Basic Principles of Wound Management",
     "rank": "3",
-    "comment": "\"I found the sections on wound assessment and classification particularly interesting, as they provided a structured approach to understanding different types of wounds and their healing stages. The discussions on wound dressings and their selection based on exudate levels and wound type were also very engaging, as they helped me understand how to choose the right treatment for optimal healing. Additionally, learning about infection control in wound care was insightful, as it emphasized the importance of preventing complications while promoting healing.\"",
+    "comment": "\"I found the sections on wound assessment and classification particularly interesting, as they provided a structured approach to understanding different types of wounds and their healing stages. The discussions on wound dressings and their selection were also very engaging, as they helped me understand how to choose the right treatment for optimal healing. Additionally, learning about infection control in wound care was insightful.\"",
     "profession": "Nurse",
     "country": "Kuwait",
     "stars": "5"
@@ -738,7 +738,7 @@
   "Basic Principles of Wound Management|5": {
     "course": "Basic Principles of Wound Management",
     "rank": "5",
-    "comment": "\"The part I found most interesting was the types of wound debridements , it introduced me to many wound debridements that I was not familiar with, and it was very enlightening.\"",
+    "comment": "\"The part I found most interesting was the types of wound debridements. It introduced me to many wound debridements that I was not familiar with, and it was very enlightening.\"",
     "profession": "Nursing Student",
     "country": "Cyprus",
     "stars": "5"
@@ -2858,7 +2858,7 @@
   "Suture Technique|1": {
     "course": "Suture Technique",
     "rank": "1",
-    "comment": "\"I found several aspects of this course particularly interesting and valuable. The detailed explanation of different types of sutures helped me understand their specific indications and appropriate uses. The step-by-step demonstration of various suturing techniques, was very helpful in visualizing the practical application. Learning about the selection of sutures based on tissue type and wound condition enhanced my clinical reasoning. Finally, the emphasis on preventing infection and ensuring optimal wound healing through proper technique and suture choice was very insightful for my future medical practice.\"",
+    "comment": "\"I liked that the detailed explanation of different types of sutures helped me understand their specific indications and appropriate uses. The step-by-step demonstration of various suturing techniques, was very helpful in visualizing the practical application. Learning about the selection of sutures based on tissue type and wound condition enhanced my clinical reasoning. Finally, the emphasis on preventing infection and ensuring optimal wound healing through proper technique and suture choice was very insightful for my future medical practice.\"",
     "profession": "Medical Student",
     "country": "Azerbaijan",
     "stars": "5"
@@ -2882,7 +2882,7 @@
   "Suture Technique|4": {
     "course": "Suture Technique",
     "rank": "4",
-    "comment": "\"Overall, the course was very informative and practical. I appreciated the hands-on demonstrations. Adding more real-life scenarios and interactive quizzes could make it even better.\"",
+    "comment": "\"Overall, the course was very informative and practical. I appreciated the hands-on demonstrations.\"",
     "profession": "Gynaecologist",
     "country": "Rwanda",
     "stars": "5"
@@ -2890,7 +2890,7 @@
   "Suture Technique|5": {
     "course": "Suture Technique",
     "rank": "5",
-    "comment": "\"The most onteresting aspects of the course were the well documented and organized slides in the presentation. They contained accurate information that makes efficient in comprehending the concepts. Thank you!\"",
+    "comment": "\"The most interesting aspects of the course were the well documented and organized slides in the presentation. They contained accurate information that makes it easier to comprehend the concepts. Thank you!\"",
     "profession": "Medical Technician",
     "country": "United States",
     "stars": "5"
@@ -2898,7 +2898,7 @@
   "Suture Technique|6": {
     "course": "Suture Technique",
     "rank": "6",
-    "comment": "\"One of the most interesting aspects of this course was learning about different types of sutures and their specific clinical applications. Understanding the differences between absorbable vs. non-absorbable, monofilament vs. multifilament, and knowing when to use each type in various surgical scenarios—such as infected wounds, vascular repair, or subcutaneous closure—was both practical and insightful. These concepts are directly applicable in clinical settings and enhance surgical decision-making skills.\"",
+    "comment": "\"One of the most interesting aspects of this course was learning about different types of sutures and their specific clinical applications. Understanding the differences between absorbable vs. non-absorbable, monofilament vs. multifilament, and knowing when to use each type in various surgical scenarios was both practical and insightful. These concepts are directly applicable in clinical settings and enhance surgical decision-making skills.\"",
     "profession": "Nurse",
     "country": "Tanzania",
     "stars": "4"
@@ -4158,5 +4158,13 @@
     "profession": "Anaesthesia Technician",
     "country": "Iraq",
     "stars": "4"
+  },
+  "Ear Reconstruction|1": {
+    "course": "Ear Reconstruction",
+    "rank": "1",
+    "comment": "\"I liked how real operating room cases were shown which was extremely helpful to understand the topic, and that the prof. showed different techniques in ear reconstruction.\"",
+    "profession": "General Medical Officer",
+    "country": "Turkey",
+    "stars": "5"
   }
 }
