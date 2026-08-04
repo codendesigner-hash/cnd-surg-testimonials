@@ -2362,10 +2362,10 @@
   "Lip  Cheek Reconstruction|2": {
     "course": "Lip  Cheek Reconstruction",
     "rank": "2",
-    "comment": "\"I enjoyde learning about the type of flaps and applications.\"",
-    "profession": "Specialist Surgeon",
-    "country": "Qatar",
-    "stars": "4"
+    "comment": "\"Everything was excellent.\"",
+    "profession": "Medical Student",
+    "country": "Mexico",
+    "stars": "5"
   },
   "Lumbar Plexus Block  Landmark Technique PSOAS Compartment Block|1": {
     "course": "Lumbar Plexus Block  Landmark Technique PSOAS Compartment Block",
@@ -4165,6 +4165,118 @@
     "comment": "\"I liked how real operating room cases were shown which was extremely helpful to understand the topic, and that the prof. showed different techniques in ear reconstruction.\"",
     "profession": "General Medical Officer",
     "country": "Turkey",
+    "stars": "5"
+  },
+  "Informed Consent  Team Communication During Cesarean Section|1": {
+    "course": "Informed Consent  Team Communication During Cesarean Section",
+    "rank": "1",
+    "comment": "\"I enjoyed learning about the importance of shared decision making,  the effect of culture, beliefs and community in the decision-making process.\"",
+    "profession": "Obstetrician",
+    "country": "Ethiopia",
+    "stars": "5"
+  },
+  "Informed Consent  Team Communication During Cesarean Section|2": {
+    "course": "Informed Consent  Team Communication During Cesarean Section",
+    "rank": "2",
+    "comment": "\"This course is vital to us who are practicing in OBGYN, and I would like to thank the team who prepared this interesting and helpful modulary course.\"",
+    "profession": "OBGYN Resident",
+    "country": "Ethiopia",
+    "stars": "5"
+  },
+  "Informed Consent  Team Communication During Cesarean Section|3": {
+    "course": "Informed Consent  Team Communication During Cesarean Section",
+    "rank": "3",
+    "comment": "\"All the content was very useful to me, particularly how to take consent during urgent and emergency situations, and the shared decision-making approach.\"",
+    "profession": "Senior Midwife",
+    "country": "Ethiopia",
+    "stars": "5"
+  },
+  "Informed Consent  Team Communication During Cesarean Section|4": {
+    "course": "Informed Consent  Team Communication During Cesarean Section",
+    "rank": "4",
+    "comment": "\"The content of this course is so relevant regarding acquiring knowledge and attitude.\"",
+    "profession": "SURGhub Learner",
+    "country": "Ethiopia",
+    "stars": "5"
+  },
+  "Informed Consent  Team Communication During Cesarean Section|5": {
+    "course": "Informed Consent  Team Communication During Cesarean Section",
+    "rank": "5",
+    "comment": "\"This course should be distributed in a hard copy manual for every health professional.\"",
+    "profession": "Obstetrician",
+    "country": "Ethiopia",
+    "stars": "5"
+  },
+  "Informed Consent  Team Communication During Cesarean Section|6": {
+    "course": "Informed Consent  Team Communication During Cesarean Section",
+    "rank": "6",
+    "comment": "\"I appreciate the shared knowledge.\"",
+    "profession": "Medical Technician",
+    "country": "Kenya",
+    "stars": "4"
+  },
+  "Z-Plasty|1": {
+    "course": "Z-Plasty",
+    "rank": "1",
+    "comment": "\"I had heard of the term z-plasty before and knew it was used in lip reconstruction and pilonidal sinus but never thought about the specific angles to increase length etc. It was super cool to know. Also the model for physical simulation was really cool and easy to make.\"",
+    "profession": "Medical Student",
+    "country": "India",
+    "stars": "5"
+  },
+  "Z-Plasty|2": {
+    "course": "Z-Plasty",
+    "rank": "2",
+    "comment": "\"I found the precision and technique involved in Z-plasty, particularly in altering scar direction and improving functional and aesthetic outcomes, most interesting. The way small adjustments in angles can significantly impact scar healing and appearance was fascinating.\"",
+    "profession": "Nurse",
+    "country": "Iraq",
+    "stars": "5"
+  },
+  "Z-Plasty|3": {
+    "course": "Z-Plasty",
+    "rank": "3",
+    "comment": "\"The most interesting part was how Z-plasty design directly changes scar behavior. Seeing how adjusting limb angles (like 30–60°) and lengths actually affects tension, lengthening, and final scar orientation made it feel very practical, not just theory.\"",
+    "profession": "SURGhub Learner",
+    "country": "",
+    "stars": "5"
+  },
+  "Z-Plasty|4": {
+    "course": "Z-Plasty",
+    "rank": "4",
+    "comment": "\"I liked learning about the surgical precision in flap design and the geometric principles involved. Particularly how adjusting the angles between the central and lateral limbs directly influences the amount of lengthening to be particularly valuable.\"",
+    "profession": "SURGhub Learner",
+    "country": "Mexico",
+    "stars": "5"
+  },
+  "Z-Plasty|5": {
+    "course": "Z-Plasty",
+    "rank": "5",
+    "comment": "\"I enjoyed the sections on using different type of suture in the skin, anatomy of skin and identifying the vascularity of the skin. Very good look at practice and good visual and animation instructions.\"",
+    "profession": "Medical Student",
+    "country": "Ukraine",
+    "stars": "5"
+  },
+  "Z-Plasty|6": {
+    "course": "Z-Plasty",
+    "rank": "6",
+    "comment": "\"The course was very informative and engaging. I really enjoyed it and learned a lot. Thank you.\"",
+    "profession": "SURGhub Learner",
+    "country": "Pakistan",
+    "stars": "5"
+  },
+  "Z-Plasty|7": {
+    "course": "Z-Plasty",
+    "rank": "7",
+    "comment": "\"I liked the interactive simulations and step-by-step decision making, especially performing a Z-plasty virtually from planning to execution.\"",
+    "profession": "Medical Student",
+    "country": "Mexico",
+    "stars": "5"
+  },
+  "Z-Plasty|8": {
+    "course": "Z-Plasty",
+    "rank": "8",
+    "comment": "\"Great short course. I wish I had known of this site sooner.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Mexico",
     "stars": "5"
   }
 }
