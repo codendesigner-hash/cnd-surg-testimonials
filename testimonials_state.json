@@ -2851,7 +2851,7 @@
     "course": "Surgical Instrument Testing and Inspection",
     "rank": "5",
     "comment": "\"I learned more about the handling of surgical instruments from a perspective that we as physicians sometimes take for granted, but that is very important for the proper recovery of our patients.\"",
-    "profession": "",
+    "profession": "SURGhub Learner",
     "country": "Mexico",
     "stars": "5"
   },
@@ -4277,6 +4277,214 @@
     "comment": "\"Great short course. I wish I had known of this site sooner.\"",
     "profession": "Specialist Surgeon",
     "country": "Mexico",
+    "stars": "5"
+  },
+  "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room|2": {
+    "course": "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room",
+    "rank": "2",
+    "comment": "\"I found the C-arm course very interesting because it gave me the opportunity to learn how to operate the machine correctly and safely. I was especially interested in learning about the proper positioning techniques and how to reduce radiation exposure. This knowledge is very important and useful for my future clinical.\"",
+    "profession": "Nurse",
+    "country": "Somalia",
+    "stars": "5"
+  },
+  "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room|4": {
+    "course": "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room",
+    "rank": "4",
+    "comment": "\"I want to thank you for this great course made available for free. Its content is lifesaving. As a biomedical technician, this course will help a lot in the field. Keep up the good work.\"",
+    "profession": "Medical Technician",
+    "country": "Haiti",
+    "stars": "5"
+  },
+  "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room|8": {
+    "course": "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room",
+    "rank": "8",
+    "comment": "\"I'm very happy and excited with the course because it's timely and educative to me as an operating room personnel. The knowledge gained from the course will be strictly used in the operating room. Thank you so much.\"",
+    "profession": "Nurse",
+    "country": "Nigeria",
+    "stars": "4"
+  },
+  "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room|9": {
+    "course": "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room",
+    "rank": "9",
+    "comment": "\"This course raised my awareness of the dangers of C-arm radiation and the precautions needed to protect everyone in the operating room — especially the patient and operating team. I also learned essential safe practices for minimizing radiation exposure while maintaining good imaging quality, including proper positioning, shielding, and following radiation safety protocols.\"",
+    "profession": "Nursing Assistant",
+    "country": "Qatar",
+    "stars": "5"
+  },
+  "Medication Error Prevention - Fundamentals of Patient Safety 2024|1": {
+    "course": "Medication Error Prevention - Fundamentals of Patient Safety 2024",
+    "rank": "1",
+    "comment": "\"I found the real-life scenarios and strategies to prevent medication errors the most interesting. They show how small steps can directly improve patient safety.\"",
+    "profession": "Registered Behavior Technician",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Medication Error Prevention - Fundamentals of Patient Safety 2024|2": {
+    "course": "Medication Error Prevention - Fundamentals of Patient Safety 2024",
+    "rank": "2",
+    "comment": "\"This course made me realize that drug administration mistakes can happen at any second, and thats why it is Important to double check and follow all the safety rules.\"",
+    "profession": "Nurse",
+    "country": "Åland Islands",
+    "stars": "5"
+  },
+  "Medication Error Prevention - Fundamentals of Patient Safety 2024|3": {
+    "course": "Medication Error Prevention - Fundamentals of Patient Safety 2024",
+    "rank": "3",
+    "comment": "\"I found it interesting the way that medication being checked is different from working on the floor as a nurse.\"",
+    "profession": "Nurse",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Medication Error Prevention - Fundamentals of Patient Safety 2024|4": {
+    "course": "Medication Error Prevention - Fundamentals of Patient Safety 2024",
+    "rank": "4",
+    "comment": "\"I appreciated the content, such as learning about how facilities buy drugs through different routes while experiencing shortages.\"",
+    "profession": "Nursing Student",
+    "country": "United States",
+    "stars": "4"
+  },
+  "Medication Error Prevention - Fundamentals of Patient Safety 2024|5": {
+    "course": "Medication Error Prevention - Fundamentals of Patient Safety 2024",
+    "rank": "5",
+    "comment": "\"I found it most interesting learning about the potential things that could cause a medication error.\"",
+    "profession": "Nurse",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Medication Error Prevention - Fundamentals of Patient Safety 2024|6": {
+    "course": "Medication Error Prevention - Fundamentals of Patient Safety 2024",
+    "rank": "6",
+    "comment": "\"I learned how anesthesiologists don't have as many safety nets as those working post-op or bedside, which makes it easier for errors to occur during surgery.\"",
+    "profession": "Nursing Student",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Medication Error Prevention - Fundamentals of Patient Safety 2024|7": {
+    "course": "Medication Error Prevention - Fundamentals of Patient Safety 2024",
+    "rank": "7",
+    "comment": "\"I enjoyed the videos in the course as they explained and laid out the information well.\"",
+    "profession": "Nurse",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Medication Error Prevention - Fundamentals of Patient Safety 2024|8": {
+    "course": "Medication Error Prevention - Fundamentals of Patient Safety 2024",
+    "rank": "8",
+    "comment": "\"I found all of it interesting because this is all new information to me since I am a nursing student.\"",
+    "profession": "Nurse",
+    "country": "United States",
+    "stars": "4"
+  },
+  "Medication Error Prevention - Fundamentals of Patient Safety 2024|9": {
+    "course": "Medication Error Prevention - Fundamentals of Patient Safety 2024",
+    "rank": "9",
+    "comment": "\"Real-life scenarios that show how errors happen and how they can be prevented—these stories often help the concepts stick.\"",
+    "profession": "Registered Behavior Technician",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Principles of Regional Anaesthesia in Children|1": {
+    "course": "Principles of Regional Anaesthesia in Children",
+    "rank": "1",
+    "comment": "\"The summaries on the differences in anatomy and pharmacokinetics were very useful to understand how to select and perform safe regional techniques.\"",
+    "profession": "Anaesthesiologist",
+    "country": "South Africa",
+    "stars": "5"
+  },
+  "Principles of Regional Anaesthesia in Children|2": {
+    "course": "Principles of Regional Anaesthesia in Children",
+    "rank": "2",
+    "comment": "\"The course crushed all of the physiology and anatomy that are necessary for anesthesiologists to perform regional anesthesia in pediatrics.\"",
+    "profession": "Non-Physician Clinician",
+    "country": "Burundi",
+    "stars": "5"
+  },
+  "Principles of Regional Anaesthesia in Children|3": {
+    "course": "Principles of Regional Anaesthesia in Children",
+    "rank": "3",
+    "comment": "\"I liked learning about the anatomical differences between the adult and the pediatric population, and the implications for regional anaesthesia.\"",
+    "profession": "SURGhub Learner",
+    "country": "Congo, the Democratic Republic of the",
+    "stars": "5"
+  },
+  "Principles of Regional Anaesthesia in Children|4": {
+    "course": "Principles of Regional Anaesthesia in Children",
+    "rank": "4",
+    "comment": "\"I found most interesting the anatomic difference between pediatrics and adult spinal and vertebrae.\"",
+    "profession": "Anaesthesiologist",
+    "country": "Ethiopia",
+    "stars": "5"
+  },
+  "Principles of Regional Anaesthesia in Children|5": {
+    "course": "Principles of Regional Anaesthesia in Children",
+    "rank": "5",
+    "comment": "\"I liked the table depicting the physiological and anatomical differences.\"",
+    "profession": "Physician",
+    "country": "Rwanda",
+    "stars": "5"
+  },
+  "Principles of Regional Anaesthesia in Children|6": {
+    "course": "Principles of Regional Anaesthesia in Children",
+    "rank": "6",
+    "comment": "\"I liked the tables with the structures and the clinical implications.\"",
+    "profession": "Anaesthesiologist",
+    "country": "Papua New Guinea",
+    "stars": "5"
+  },
+  "Safety Culture - Fundamentals of Patient Safety 2024|4": {
+    "course": "Safety Culture - Fundamentals of Patient Safety 2024",
+    "rank": "4",
+    "comment": "\"I found the scenarios to be interesting and how they relate back to the concepts mentioned.\"",
+    "profession": "Nurse",
+    "country": "United States",
+    "stars": "4"
+  },
+  "Safety Culture - Fundamentals of Patient Safety 2024|5": {
+    "course": "Safety Culture - Fundamentals of Patient Safety 2024",
+    "rank": "5",
+    "comment": "\"I liked the scenarios. I learn best through working a problem.\"",
+    "profession": "Nurse",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Safety Culture - Fundamentals of Patient Safety 2024|6": {
+    "course": "Safety Culture - Fundamentals of Patient Safety 2024",
+    "rank": "6",
+    "comment": "\"I liked the scenarios and how real they are.\"",
+    "profession": "Nurse",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Safety Culture - Fundamentals of Patient Safety 2024|7": {
+    "course": "Safety Culture - Fundamentals of Patient Safety 2024",
+    "rank": "7",
+    "comment": "\"I found the information in general very useful, especially learning how not to confuse definitions even when we think they mean the same thing.\"",
+    "profession": "Physician",
+    "country": "Mexico",
+    "stars": "4"
+  },
+  "Strategies for Implementing Reliable Systems - Fundamentals of Patient Safety 2024|1": {
+    "course": "Strategies for Implementing Reliable Systems - Fundamentals of Patient Safety 2024",
+    "rank": "1",
+    "comment": "\"I learned a lot and enjoyed a lot too.\"",
+    "profession": "Nursing Student",
+    "country": "Philippines",
+    "stars": "5"
+  },
+  "Strategies for Implementing Reliable Systems - Fundamentals of Patient Safety 2024|2": {
+    "course": "Strategies for Implementing Reliable Systems - Fundamentals of Patient Safety 2024",
+    "rank": "2",
+    "comment": "\"I didn't know about this topic before I found this course.\"",
+    "profession": "Anaesthesiologist",
+    "country": "Mexico",
+    "stars": "5"
+  },
+  "Strategies for Implementing Reliable Systems - Fundamentals of Patient Safety 2024|3": {
+    "course": "Strategies for Implementing Reliable Systems - Fundamentals of Patient Safety 2024",
+    "rank": "3",
+    "comment": "\"I learned about documentation and procedures, and the importance of ensuring technology is backed up.\"",
+    "profession": "Clinical Officer",
+    "country": "Australia",
     "stars": "5"
   }
 }
