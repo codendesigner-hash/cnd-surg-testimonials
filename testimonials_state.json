@@ -1234,17 +1234,17 @@
   "Chest Wall Reconstruction|1": {
     "course": "Chest Wall Reconstruction",
     "rank": "1",
-    "comment": "\"Great platform. Thanks for oppurtunity. Good idea and inspiration for me to do something in this format for younger generation colleagues in my home country Ukraine. When we give more we absolutely will return more!\"",
+    "comment": "\"This course helped me in gaining a clear framework for the principles of chest wall reconstruction: restoring function, protecting vital organs, achieving durable coverage, and preserving respiratory mechanics.\"",
     "profession": "Specialist Surgeon",
-    "country": "Poland",
+    "country": "Mexico",
     "stars": "5"
   },
   "Chest Wall Reconstruction|2": {
     "course": "Chest Wall Reconstruction",
     "rank": "2",
-    "comment": "\"This course helped me in gaining a clear framework for the principles of chest wall reconstruction: restoring function, protecting vital organs, achieving durable coverage, and preserving respiratory mechanics.\"",
-    "profession": "Specialist Surgeon",
-    "country": "Mexico",
+    "comment": "\"Useful and very focused. Interesting case presentation.\"",
+    "profession": "Undergraduate Specialist Surgeon",
+    "country": "Poland",
     "stars": "5"
   },
   "Chest Wall Reconstruction|5": {
@@ -4566,5 +4566,13 @@
     "profession": "Registered Behavior Technician",
     "country": "United States",
     "stars": "5"
+  },
+  "Chest Wall Reconstruction|3": {
+    "course": "Chest Wall Reconstruction",
+    "rank": "3",
+    "comment": "\"I liked this course because it take very few hours to accomplish it and it's interesting.\"",
+    "profession": "Medical Student",
+    "country": "Tanzania",
+    "stars": "4"
   }
 }
