@@ -682,7 +682,7 @@
   "Basic Caesarean Section|1": {
     "course": "Basic Caesarean Section",
     "rank": "1",
-    "comment": "\"The most interesting aspects were the surgical techniques for different uterine incisions, the rapid decision-making protocols for emergency cases, and the advancements in postoperative recovery to improve maternal health.\".",
+    "comment": "\"The most interesting aspects were the surgical techniques for different uterine incisions, the rapid decision-making protocols for emergency cases, and the advancements in postoperative recovery to improve maternal health.\"",
     "profession": "Medical Student",
     "country": "Kazakhstan",
     "stars": "5"
@@ -690,18 +690,18 @@
   "Basic Caesarean Section|2": {
     "course": "Basic Caesarean Section",
     "rank": "2",
-    "comment": "\"I liked the clear explanation of key concepts and the practical approach used to understand clinical scenarios.\"",
-    "profession": "General Medical Officer",
-    "country": "Mexico",
-    "stars": "4"
-  },
-  "Basic Caesarean Section|3": {
-    "course": "Basic Caesarean Section",
-    "rank": "3",
     "comment": "\"I liked the lecture, the videos showing live procedures, and the overall structure of course.\"",
     "profession": "Practicing General Surgeon",
     "country": "Sierra Leone",
     "stars": "5"
+  },
+  "Basic Caesarean Section|3": {
+    "course": "Basic Caesarean Section",
+    "rank": "3",
+    "comment": "\"I liked the clear explanation of key concepts and the practical approach used to understand clinical scenarios.\"",
+    "profession": "General Medical Officer",
+    "country": "Mexico",
+    "stars": "4"
   },
   "Basic Principles of Wound Management|1": {
     "course": "Basic Principles of Wound Management",
@@ -1042,7 +1042,7 @@
   "C-Arm Intraoperative Imaging for Ankle Fractures|1": {
     "course": "C-Arm Intraoperative Imaging for Ankle Fractures",
     "rank": "1",
-    "comment": "\"I enjoyed  learning how intraoperative imaging directly affects surgical outcomes especially in procedures like ankle fracture fixation. The use of the Mortise View to assess joint alignment and implant positioning was fascinating. I also appreciated the practical knowledge on positioning the patient and the C-Arm, which are vital skills in the theatre setting. These insights will definitely help me support the surgical team more effectively during orthopedic cases.\"",
+    "comment": "\"I enjoyed  learning how intraoperative imaging directly affects surgical outcomes. The use of the Mortise View to assess joint alignment and implant positioning was fascinating. I also appreciated the practical knowledge on positioning the patient and the C-Arm. These insights will definitely help me support the surgical team more effectively during orthopedic cases.\"",
     "profession": "Medical Technician",
     "country": "Kenya",
     "stars": "5"
@@ -1275,7 +1275,7 @@
     "course": "Cleft Lip and Palate",
     "rank": "3",
     "comment": "\"I enjoyed the explanations as to why there may be lip deformities post surgery, and why fistulae at the incisive foramen are hard to heal.\"",
-    "profession": "Speech And Language Therapist",
+    "profession": "Speech and Language Therapist",
     "country": "Ghana",
     "stars": "4"
   },
@@ -4114,7 +4114,7 @@
   "Overview of Skin Cancer|2": {
     "course": "Overview of Skin Cancer",
     "rank": "2",
-    "comment": "\"One of the most interesting aspects of this course was understanding the different types of skin cancer, particularly and how their behavior, risk factors, and management differ. I found it especially valuable to learn how clinical features such as lesion size, borders, and location influence treatment decisions. This course enhanced my ability to approach skin lesions systematically and reinforced the importance of timely diagnosis in improving patient outcomes.\"",
+    "comment": "\"One of the most interesting aspects of this course was understanding the different types of skin cancer, particularly and how their behavior, risk factors, and management differ. This course enhanced my ability to approach skin lesions systematically and reinforced the importance of timely diagnosis in improving patient outcomes.\"",
     "profession": "SURGhub Learner",
     "country": "",
     "stars": "5"
@@ -4574,5 +4574,45 @@
     "profession": "Medical Student",
     "country": "Tanzania",
     "stars": "4"
+  },
+  "Strategies for Implementing Reliable Systems|1": {
+    "course": "Strategies for Implementing Reliable Systems",
+    "rank": "1",
+    "comment": "\"I learned about documentation and procedures, and the importance of ensuring technology is backed up.\"",
+    "profession": "Clinical Officer",
+    "country": "Australia",
+    "stars": "5"
+  },
+  "Strategies for Implementing Reliable Systems|2": {
+    "course": "Strategies for Implementing Reliable Systems",
+    "rank": "2",
+    "comment": "\"I liked learning about the idea that too many redundancies can be counterproductive.\"",
+    "profession": "General Medical Officer",
+    "country": "Canada",
+    "stars": "5"
+  },
+  "Strategies for Implementing Reliable Systems|3": {
+    "course": "Strategies for Implementing Reliable Systems",
+    "rank": "3",
+    "comment": "\"I learned a lot and enjoyed a lot too.\"",
+    "profession": "Nursing Student",
+    "country": "Philippines",
+    "stars": "5"
+  },
+  "Strategies for Implementing Reliable Systems|4": {
+    "course": "Strategies for Implementing Reliable Systems",
+    "rank": "4",
+    "comment": "\"I liked the sections on reports and debriefing strategy.\"",
+    "profession": "Nurse",
+    "country": "Philippines",
+    "stars": "5"
+  },
+  "Strategies for Implementing Reliable Systems|5": {
+    "course": "Strategies for Implementing Reliable Systems",
+    "rank": "5",
+    "comment": "\"This course was really good.\"",
+    "profession": "SURGhub Learner",
+    "country": "",
+    "stars": "5"
   }
 }
