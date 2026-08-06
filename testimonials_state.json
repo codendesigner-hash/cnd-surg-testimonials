@@ -746,7 +746,7 @@
   "Blast Injuries|1": {
     "course": "Blast Injuries",
     "rank": "1",
-    "comment": "\"“I found most interesting the integration of blast physics with clinical care, especially how understanding overpressure waves directly explains the injury patterns we see in the lungs, bowel, and ear.”.\"",
+    "comment": "“I found most interesting the integration of blast physics with clinical care, especially how understanding overpressure waves directly explains the injury patterns we see in the lungs, bowel, and ear.”",
     "profession": "Specialist Surgeon",
     "country": "Mexico",
     "stars": "5"
@@ -1202,7 +1202,7 @@
   "Chemical and Radiation Injuries|1": {
     "course": "Chemical and Radiation Injuries",
     "rank": "1",
-    "comment": "\"I liked the clear comparison between different types of chemical and radiological agents, their mechanisms, and characteristic symptoms and appreciated the detailed discussion of specific antidotes. I found the real-world clinical cases from Syria, Japan, and Goiânia especially engaging, as they connected theory with practice. Finally, the emphasis on hospital and community preparedness reinforced the importance of coordination and planning in disaster response.\"",
+    "comment": "\"I liked the clear comparison between different types of chemical and radiological agents, their mechanisms, and characteristic symptoms. I found the real-world clinical cases especially engaging, as they connected theory with practice. The emphasis on hospital and community preparedness reinforced the importance of coordination and planning in disaster response.\"",
     "profession": "Specialist Surgeon",
     "country": "Mexico",
     "stars": "5"
@@ -4282,18 +4282,18 @@
   "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room|2": {
     "course": "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room",
     "rank": "2",
-    "comment": "\"I found the C-arm course very interesting because it gave me the opportunity to learn how to operate the machine correctly and safely. I was especially interested in learning about the proper positioning techniques and how to reduce radiation exposure. This knowledge is very important and useful for my future clinical.\"",
-    "profession": "Nurse",
-    "country": "Somalia",
+    "comment": "\"I want to thank you for this great course made available for free. Its content is lifesaving. As a biomedical technician, this course will help a lot in the field. Keep up the good work.\"",
+    "profession": "Medical Technician",
+    "country": "Haiti",
     "stars": "5"
   },
   "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room|4": {
     "course": "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room",
     "rank": "4",
-    "comment": "\"I want to thank you for this great course made available for free. Its content is lifesaving. As a biomedical technician, this course will help a lot in the field. Keep up the good work.\"",
-    "profession": "Medical Technician",
-    "country": "Haiti",
-    "stars": "5"
+    "comment": "\"I'm very happy and excited with the course because it's timely and educative to me as an operating room personnel. The knowledge gained from the course will be strictly used in the operating room. Thank you so much.\"",
+    "profession": "Nurse",
+    "country": "Nigeria",
+    "stars": "4"
   },
   "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room|8": {
     "course": "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room",
@@ -4611,6 +4611,382 @@
     "course": "Strategies for Implementing Reliable Systems",
     "rank": "5",
     "comment": "\"This course was really good.\"",
+    "profession": "SURGhub Learner",
+    "country": "",
+    "stars": "5"
+  },
+  "Difficult Airway Algorithm|1": {
+    "course": "Difficult Airway Algorithm",
+    "rank": "1",
+    "comment": "\"I love the swift pace of the course, it is great and gave me a framework that difficult airway algorithm hinges on the aspect of getting a difficult ventilation and intubation problem and attempting awake intubation is best. Preparation is key in that sense and also I liked how I get to be refreshed by the flowcharts.\"",
+    "profession": "General Medical Officer",
+    "country": "Indonesia",
+    "stars": "5"
+  },
+  "Difficult Airway Algorithm|3": {
+    "course": "Difficult Airway Algorithm",
+    "rank": "3",
+    "comment": "\"The layout is what I found most interesting.\"",
+    "profession": "Physician",
+    "country": "Turkey",
+    "stars": "5"
+  },
+  "Difficult Airway Algorithm|4": {
+    "course": "Difficult Airway Algorithm",
+    "rank": "4",
+    "comment": "\"The most interesting aspects of this course were the in-depth exploration of healthcare systems and their impact on patient care, the practical case studies that provided real-world applications, and the emphasis on the evolving trends in healthcare management. I particularly enjoyed learning about the integration of technology in healthcare delivery, as well as strategies for improving organizational efficiency and patient outcomes. The course also offered valuable insights into policy-making and the role of leadership in shaping the healthcare landscape.\"",
+    "profession": "Nurse",
+    "country": "Somalia",
+    "stars": "4"
+  },
+  "Difficult Airway Algorithm|5": {
+    "course": "Difficult Airway Algorithm",
+    "rank": "5",
+    "comment": "\"For Anaesthesiologists this topic is the most important.\"",
+    "profession": "Anaesthesiologist",
+    "country": "Pakistan",
+    "stars": "4"
+  },
+  "Difficult Airway Algorithm|6": {
+    "course": "Difficult Airway Algorithm",
+    "rank": "6",
+    "comment": "\"I enjoyed the topics on preoperative discussions with the team, documentation of airway concerns, and clearly informing recovery staff and parents (as appropriate) are crucial parts of safe care. Also that any difficult airway event should be carefully documented and communicated for future care planning.\"",
+    "profession": "Nurse",
+    "country": "Tanzania",
+    "stars": "4"
+  },
+  "Drug Errors in Anesthesia|4": {
+    "course": "Drug Errors in Anesthesia",
+    "rank": "4",
+    "comment": "\"The material was presented in an easy to understand way. The navigation of the software was easy to use.\"",
+    "profession": "Nurse",
+    "country": "United Kingdom",
+    "stars": "5"
+  },
+  "Drug Errors in Anesthesia|1": {
+    "course": "Drug Errors in Anesthesia",
+    "rank": "1",
+    "comment": "\"I enjoyed learning about the types of common ADE and how it impacts the life of patients and can be fatal in some cases if not recognized in a timely manner. Also the importance in adhering to prescribed protocol and vigilance to ensure drug errors are preventable.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Jamaica",
+    "stars": "5"
+  },
+  "Drug Errors in Anesthesia|2": {
+    "course": "Drug Errors in Anesthesia",
+    "rank": "2",
+    "comment": "\"I liked learning about the management strategies, and that is because of their permeability. I have a personal goal to come up with a nearly impermeable strategy.\"",
+    "profession": "Physician",
+    "country": "Ghana",
+    "stars": "5"
+  },
+  "Drug Errors in Anesthesia|3": {
+    "course": "Drug Errors in Anesthesia",
+    "rank": "3",
+    "comment": "\"I liked the topic on incorrect dosing or drug selection. For example, giving too much or too little of an anesthetic agent, or administering the wrong medication.\"",
+    "profession": "Medical Student",
+    "country": "Myanmar",
+    "stars": "5"
+  },
+  "Emergency Checklists in Anesthesia Practice|1": {
+    "course": "Emergency Checklists in Anesthesia Practice",
+    "rank": "1",
+    "comment": "\"I found the sections on cognitive aids in crisis management most interesting. I also appreciated the practical strategies for implementing and customizing cognitive aids in the OR, including adapting them to local protocols and ensuring team-wide buy-in. The discussions on malignant hyperthermia and local anesthetic toxicity management were particularly engaging, as they combined theoretical knowledge with step-by-step crisis interventions.\"",
+    "profession": "Medical Student",
+    "country": "Mexico",
+    "stars": "5"
+  },
+  "Emergency Checklists in Anesthesia Practice|2": {
+    "course": "Emergency Checklists in Anesthesia Practice",
+    "rank": "2",
+    "comment": "\"I found the detailed case studies and the integration of the latest clinical guidelines particularly engaging. The interactive diagnostic simulations provided a great way to test clinical reasoning in a risk-free environment.\".",
+    "profession": "Medical Student",
+    "country": "Kazakhstan",
+    "stars": "5"
+  },
+  "Emergency Checklists in Anesthesia Practice|3": {
+    "course": "Emergency Checklists in Anesthesia Practice",
+    "rank": "3",
+    "comment": "\"I found the discussion on cognitive aids most interesting. Learning how symptom- versus diagnosis-based aids are used, and seeing how they improve performance in high-stress scenarios, was eye-opening. I also appreciated the practical examples from the operating room and emergency situations, which made it clear how these tools can directly impact patient safety. The emphasis on team communication and the strategies for implementing these aids in a real clinical setting were particularly engaging for me.\"",
+    "profession": "Medical Student",
+    "country": "Kazakhstan",
+    "stars": "4"
+  },
+  "Emergency Checklists in Anesthesia Practice|4": {
+    "course": "Emergency Checklists in Anesthesia Practice",
+    "rank": "4",
+    "comment": "\"I found the discussion on simulation studies most interesting, especially how consistently cognitive aids improved team performance. I also really appreciated learning the difference between symptom-based and diagnosis-based aids, since that’s directly relevant to real-world crisis management.\"",
+    "profession": "Anaesthesia Technician",
+    "country": "Pakistan",
+    "stars": "4"
+  },
+  "Emergency Checklists in Anesthesia Practice|5": {
+    "course": "Emergency Checklists in Anesthesia Practice",
+    "rank": "5",
+    "comment": "\"The most interesting aspect of this course was learning how cognitive aids can effectively minimize human error and cognitive load during high-stress surgical crises. I also found the evidence-based strategies for improving team communication and the practical steps for implementing safety checklists in the operating room to be highly insightful.\"",
+    "profession": "Anaesthesia Technician",
+    "country": "Iraq",
+    "stars": "4"
+  },
+  "Emergency Checklists in Anesthesia Practice|6": {
+    "course": "Emergency Checklists in Anesthesia Practice",
+    "rank": "6",
+    "comment": "\"The course was well organized, informative, and practical. It effectively highlighted the importance of cognitive aids in improving patient safety and team performance during critical events.\"",
+    "profession": "Anaesthesia Technician",
+    "country": "Pakistan",
+    "stars": "5"
+  },
+  "Emergency Checklists in Anesthesia Practice|7": {
+    "course": "Emergency Checklists in Anesthesia Practice",
+    "rank": "7",
+    "comment": "\"The practical examples and real-life case discussions were the most interesting. They helped me understand how to apply the knowledge in real work situations.\"",
+    "profession": "Anaesthesiologist",
+    "country": "Jordan",
+    "stars": "4"
+  },
+  "Emergency Checklists in Anesthesia Practice|8": {
+    "course": "Emergency Checklists in Anesthesia Practice",
+    "rank": "8",
+    "comment": "\"The case studies were quite interesting due to the fact that it gives a realistic approach and response to the implementation of the cognitive aid.\"",
+    "profession": "Physician",
+    "country": "Ghana",
+    "stars": "5"
+  },
+  "Epidemiology|1": {
+    "course": "Epidemiology",
+    "rank": "1",
+    "comment": "\"What I found most interesting about this course was the application of epidemiological principles to identify, analyze, and prevent patient safety incidents. The way concepts like incidence, prevalence, and risk factors were linked to real-world clinical errors made the subject highly practical and relevant.\"",
+    "profession": "Dentist",
+    "country": "India",
+    "stars": "5"
+  },
+  "Epidemiology|2": {
+    "course": "Epidemiology",
+    "rank": "2",
+    "comment": "\"What a great refresher course for me. I found all aspects of this course interesting. I particularly took notes while going through root cause analysis (RCA), and failure mode and effect analysis (FMEA). I absolutely love how they were both explained.\"",
+    "profession": "Anaesthesiologist",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Epidemiology|3": {
+    "course": "Epidemiology",
+    "rank": "3",
+    "comment": "\"The most interesting aspects of the course were learning from real clinical cases, understanding human factors and system-based errors, and seeing how simple safety checks can prevent serious patient harm.\"",
+    "profession": "Gynaecologist",
+    "country": "Rwanda",
+    "stars": "5"
+  },
+  "Epidemiology|4": {
+    "course": "Epidemiology",
+    "rank": "4",
+    "comment": "\"I liked the part focusing on analyzing medical errors in order to prevent them from occurring again.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Ethiopia",
+    "stars": "5"
+  },
+  "Epidemiology|5": {
+    "course": "Epidemiology",
+    "rank": "5",
+    "comment": "\"I liked the interactive discussion and real world application and theory.\"",
+    "profession": "SURGhub Learner",
+    "country": "",
+    "stars": "5"
+  },
+  "Epidemiology|6": {
+    "course": "Epidemiology",
+    "rank": "6",
+    "comment": "\"I found this course very illuminating and refreshing.\"",
+    "profession": "Anaesthesiologist",
+    "country": "Nigeria",
+    "stars": "5"
+  },
+  "Epidemiology|7": {
+    "course": "Epidemiology",
+    "rank": "7",
+    "comment": "\"Engaging real world case studies.\"",
+    "profession": "SURGhub Learner",
+    "country": "",
+    "stars": "5"
+  },
+  "Error Analysis and Prevention|1": {
+    "course": "Error Analysis and Prevention",
+    "rank": "1",
+    "comment": "\"I enjoyed learning the difference between RCA and FEMA.\"",
+    "profession": "Nurse Anaesthetist",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Error Analysis and Prevention|2": {
+    "course": "Error Analysis and Prevention",
+    "rank": "2",
+    "comment": "\"I liked the use of hypotheticals to cement the concept of the models.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Jamaica",
+    "stars": "4"
+  },
+  "Error Analysis and Prevention|3": {
+    "course": "Error Analysis and Prevention",
+    "rank": "3",
+    "comment": "\"Thank you for the course. Much appreciated.\"",
+    "profession": "Non-Clinical Professional",
+    "country": "India",
+    "stars": "5"
+  },
+  "Infection Control and Prevention|1": {
+    "course": "Infection Control and Prevention",
+    "rank": "1",
+    "comment": "\"I found the course most interesting because it highlighted how simple practices, like proper hand hygiene and safe medication handling, can significantly reduce hospital-acquired infections. I also appreciated learning evidence-based guidelines from WHO and CDC, and seeing how they apply directly to real-life clinical settings. The practical scenarios and clear explanations made the material engaging and highly relevant to patient safety.\"",
+    "profession": "Medical Technician",
+    "country": "Morocco",
+    "stars": "5"
+  },
+  "Infection Control and Prevention|2": {
+    "course": "Infection Control and Prevention",
+    "rank": "2",
+    "comment": "\"I found the focus on infection prevention and patient safety most interesting—learning how practices like hand hygiene, PPE use, and safe medication handling can significantly reduce hospital-acquired infections. I also appreciated seeing how evidence-based guidelines and ethical considerations come together in everyday clinical care.\"",
+    "profession": "Nurse",
+    "country": "United Kingdom",
+    "stars": "5"
+  },
+  "Infection Control and Prevention|3": {
+    "course": "Infection Control and Prevention",
+    "rank": "3",
+    "comment": "\"I found the aspects related to infection prevention and control most interesting, especially the evidence-based practices like the WHO’s 5 moments of hand hygiene, safe injection practices, and central line/urinary catheter bundles. These topics stood out because they are highly practical, directly applicable in daily clinical work, and have a major impact on patient safety and reduction of hospital-acquired infections (HAIs).\"",
+    "profession": "Physician",
+    "country": "Pakistan",
+    "stars": "5"
+  },
+  "Infection Control and Prevention|4": {
+    "course": "Infection Control and Prevention",
+    "rank": "4",
+    "comment": "\"I found most intersting how small, routine practices can significantly impact patient outcomes and prevent hospital-acquired infections. The real-world relevance of these measures made the course both practical and enlightening. Learning about medication preparation practices, safe catheter use, and central line precautions also deepened my appreciation for the role anesthesiologists and other healthcare providers play in infection prevention.\"",
+    "profession": "Nurse",
+    "country": "India",
+    "stars": "5"
+  },
+  "Infection Control and Prevention|5": {
+    "course": "Infection Control and Prevention",
+    "rank": "5",
+    "comment": "\"What attracted me most in this course was the balance between theoretical and practical aspects. The information was clear and based on the latest research, along with practical exercises that helped me understand the material more deeply. I also appreciated the engaging and interactive way the content was delivered, which motivated me to participate and get the most benefit.\"",
+    "profession": "Non-Clinical Professional",
+    "country": "Saudi Arabia",
+    "stars": "5"
+  },
+  "Infection Control and Prevention|6": {
+    "course": "Infection Control and Prevention",
+    "rank": "6",
+    "comment": "\"In this course, I found the understanding of the chain of infection particularly interesting, as it provided a clear framework for how infections spread and how each link can be interrupted to prevent transmission. I also found the discussion on evidence-based practices engaging.\"",
+    "profession": "Nurse",
+    "country": "Kuwait",
+    "stars": "5"
+  },
+  "Infection Control and Prevention|7": {
+    "course": "Infection Control and Prevention",
+    "rank": "7",
+    "comment": "\"I found the parts about how infections spread and how healthcare workers can prevent them the most interesting. Learning about proper hand hygiene, using personal protective equipment, and keeping patients safe was very useful. The course helped me understand how important infection control is in healthcare.\"",
+    "profession": "SURGhub Learner",
+    "country": "",
+    "stars": "5"
+  },
+  "Infection Control and Prevention|8": {
+    "course": "Infection Control and Prevention",
+    "rank": "8",
+    "comment": "\"I am a 2nd year general surgery resident in Mexico. Sometimes here in Mexico, we dont take that much importance to hand-washing. It is so important for the patient safety and good outcome in the post OP, and more importantly, because my country is not used to following a lot of clean protocols. Thank you for this kind of course.\"",
+    "profession": "General Surgery Resident",
+    "country": "Mexico",
+    "stars": "5"
+  },
+  "Infection Control and Prevention|9": {
+    "course": "Infection Control and Prevention",
+    "rank": "9",
+    "comment": "\"I found the course very interesting because it explained practical infection control steps like hand hygiene, safe IV handling, and waste management in a simple and clear way. The short videos and real-life examples made it easy to understand and remember. I liked that it focused on safety for both patients and healthcare workers.\"",
+    "profession": "Nurse",
+    "country": "India",
+    "stars": "4"
+  },
+  "Infection Control and Prevention|10": {
+    "course": "Infection Control and Prevention",
+    "rank": "10",
+    "comment": "\"The most interesting part of the course was understanding how infections spread in hospitals and how easily they can be prevented. I also found hand hygiene and PPE use very important for protecting both patients and healthcare wokers.\"",
+    "profession": "SURGhub Learner",
+    "country": "",
+    "stars": "5"
+  },
+  "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room|1": {
+    "course": "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room",
+    "rank": "1",
+    "comment": "\"I found the C-arm course very interesting because it gave me the opportunity to learn how to operate the machine correctly and safely. I was especially interested in learning about the proper positioning techniques and how to reduce radiation exposure. This knowledge is very important and useful for my future clinical.\"",
+    "profession": "Nurse",
+    "country": "Somalia",
+    "stars": "5"
+  },
+  "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room|3": {
+    "course": "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room",
+    "rank": "3",
+    "comment": "\"This course raised my awareness of the dangers of C-arm radiation and the precautions needed to protect everyone in the operating room — especially the patient and operating team. I also learned essential safe practices for minimizing radiation exposure while maintaining good imaging quality, including proper positioning, shielding, and following radiation safety protocols.\"",
+    "profession": "Nursing Assistant",
+    "country": "Qatar",
+    "stars": "5"
+  },
+  "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room|5": {
+    "course": "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room",
+    "rank": "5",
+    "comment": "\"Thank you for providing me with the opportunity to learn the C-ARM section and become a professional.\"",
+    "profession": "SURGhub Learner",
+    "country": "",
+    "stars": "5"
+  },
+  "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room|6": {
+    "course": "Introduction to C-Arm Imaging and Radiation Safety in the Operating Room",
+    "rank": "6",
+    "comment": "\"The most interesting aspects of the course were the clear structure, the practical examples, and the way complex concepts were explained in an accessible manner. This made the learning experience engaging and easy to understand.\"",
+    "profession": "SURGhub Learner",
+    "country": "",
+    "stars": "5"
+  },
+  "Safety Culture|1": {
+    "course": "Safety Culture",
+    "rank": "1",
+    "comment": "\"I found the scenarios to be interesting and how they relate back to the concepts mentioned.\"",
+    "profession": "Nurse",
+    "country": "United States",
+    "stars": "4"
+  },
+  "Safety Culture|2": {
+    "course": "Safety Culture",
+    "rank": "2",
+    "comment": "\"I liked the scenarios. I learn best through working a problem.\"",
+    "profession": "Nurse",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Safety Culture|3": {
+    "course": "Safety Culture",
+    "rank": "3",
+    "comment": "\"I liked the scenarios and how real they are.\"",
+    "profession": "Nurse",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Safety Culture|4": {
+    "course": "Safety Culture",
+    "rank": "4",
+    "comment": "\"I found the information in general very useful, especially learning how not to confuse definitions even when we think they mean the same thing.\"",
+    "profession": "Physician",
+    "country": "Mexico",
+    "stars": "4"
+  },
+  "Safety Culture|5": {
+    "course": "Safety Culture",
+    "rank": "5",
+    "comment": "\"I loved that I got to answer questions and there were scenarios. You never know what will happen so you have to be prepared for every possible case and you have to be careful and know what to do for the patient’s safety and the team’s safety.\"",
+    "profession": "SURGhub Learner",
+    "country": "",
+    "stars": "5"
+  },
+  "Safety Culture|6": {
+    "course": "Safety Culture",
+    "rank": "6",
+    "comment": "\"The aspects that I found most interesting were the practical examples and the focus on patient safety.\"",
     "profession": "SURGhub Learner",
     "country": "",
     "stars": "5"
