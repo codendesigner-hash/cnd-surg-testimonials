@@ -5078,5 +5078,141 @@
     "profession": "General Medical Officer",
     "country": "Indonesia",
     "stars": "5"
+  },
+  "Postoperative Assessment and Monitoring|1": {
+    "course": "Postoperative Assessment and Monitoring",
+    "rank": "1",
+    "comment": "\"The things that I found the most interesting were the way words were conveyed. Everything was explained in such a professional manner that also still helped you to understand exactly what was going on.\"",
+    "profession": "Nurse",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Postoperative Assessment and Monitoring|2": {
+    "course": "Postoperative Assessment and Monitoring",
+    "rank": "2",
+    "comment": "\"I found this course very informative. Thank you for a well presented and informative course.\"",
+    "profession": "Caregiver",
+    "country": "South Africa",
+    "stars": "5"
+  },
+  "Postoperative Assessment and Monitoring|3": {
+    "course": "Postoperative Assessment and Monitoring",
+    "rank": "3",
+    "comment": "\"I found most interesting learning about how to take proper care of patients post operatively depending on their conditions.\"",
+    "profession": "Nurse",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Postoperative Assessment and Monitoring|4": {
+    "course": "Postoperative Assessment and Monitoring",
+    "rank": "4",
+    "comment": "\"I am grateful for this opportunity to learn and be better at providing health services.\"",
+    "profession": "Nurse",
+    "country": "Uganda",
+    "stars": "4"
+  },
+  "Postoperative Assessment and Monitoring|5": {
+    "course": "Postoperative Assessment and Monitoring",
+    "rank": "5",
+    "comment": "\"I learned some skills for assessment of the post-op patient.\"",
+    "profession": "Nurse Anaesthetist",
+    "country": "India",
+    "stars": "5"
+  },
+  "Postoperative Assessment and Monitoring|6": {
+    "course": "Postoperative Assessment and Monitoring",
+    "rank": "6",
+    "comment": "\"I enjoyed learning about the management of a postoperative patient in terms of overall safety.\"",
+    "profession": "Nursing Student",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Postoperative Assessment and Monitoring|7": {
+    "course": "Postoperative Assessment and Monitoring",
+    "rank": "7",
+    "comment": "\"I liked the section on effective communication while monitoring post operative patients.\"",
+    "profession": "Nurse",
+    "country": "Malawi",
+    "stars": "5"
+  },
+  "Postoperative Assessment and Monitoring|8": {
+    "course": "Postoperative Assessment and Monitoring",
+    "rank": "8",
+    "comment": "\"I found all the aspects interesting. I learned new things on the exposure component.\"",
+    "profession": "Non-Clinical Professional",
+    "country": "Zambia",
+    "stars": "5"
+  },
+  "Preoperative Assessment|1": {
+    "course": "Preoperative Assessment",
+    "rank": "1",
+    "comment": "\"The aspect of this course that I found most interesting were the practical applications of the concepts.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Somalia",
+    "stars": "5"
+  },
+  "Preoperative Assessment|2": {
+    "course": "Preoperative Assessment",
+    "rank": "2",
+    "comment": "\"I thought it was interesting how much goes into the post-op for a patient.\"",
+    "profession": "Nurse",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Preoperative Assessment|3": {
+    "course": "Preoperative Assessment",
+    "rank": "3",
+    "comment": "\"I found this course informative for me because I'm a student of Anaesthesia Technology.\"",
+    "profession": "Anaesthesia Technology Student",
+    "country": "",
+    "stars": "5"
+  },
+  "Preoperative Assessment|4": {
+    "course": "Preoperative Assessment",
+    "rank": "4",
+    "comment": "\"Everything was informative, organised and explained thoroughly. Loved how concise the details were.\"",
+    "profession": "Nurse",
+    "country": "New Zealand",
+    "stars": "5"
+  },
+  "Preoperative Assessment|5": {
+    "course": "Preoperative Assessment",
+    "rank": "5",
+    "comment": "\"I enjoyed this course. Thanks for your effort and time.\"",
+    "profession": "General Medical Officer",
+    "country": "Honduras",
+    "stars": "5"
+  },
+  "Rural Urology Practice|1": {
+    "course": "Rural Urology Practice",
+    "rank": "1",
+    "comment": "\"Overall, the course was informative and well-structured. I appreciate the effort put into delivering relevant clinical content, especially topics like urosepsis, urethral trauma, and emergency urology care. Thank you for a valuable learning experience.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Nigeria",
+    "stars": "5"
+  },
+  "Rural Urology Practice|3": {
+    "course": "Rural Urology Practice",
+    "rank": "3",
+    "comment": "\"I am very grateful for the course.\"",
+    "profession": "SURGhub Learner",
+    "country": "Mexico",
+    "stars": "5"
+  },
+  "Rural Urology Practice|4": {
+    "course": "Rural Urology Practice",
+    "rank": "4",
+    "comment": "\"I found most interesting the fact that rural surgons can help without costly instruments.\"",
+    "profession": "Anaesthesiologist",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Rural Urology Practice|5": {
+    "course": "Rural Urology Practice",
+    "rank": "5",
+    "comment": "\" Very simple and understandable presentation. Nice job.\"",
+    "profession": "Specialist Surgeon",
+    "country": "India",
+    "stars": "5"
   }
 }
