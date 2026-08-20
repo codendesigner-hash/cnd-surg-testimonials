@@ -1178,7 +1178,7 @@
   "Central Venous Access Devices CVADs|1": {
     "course": "Central Venous Access Devices CVADs",
     "rank": "1",
-    "comment": "\"One of the most interesting aspects of this course was learning about the clinical indications and techniques for central venous access. I found it especially valuable to understand the anatomical landmarks, the use of ultrasound guidance, and the importance of aseptic technique to prevent infections. It was also very engaging to study the potential complications and how to manage them, which emphasized the importance of precision and safety in clinical practice.\"",
+    "comment": "\"One of the most interesting aspects of this course was learning about the clinical indications and techniques for central venous access. It was also very engaging to study the potential complications and how to manage them, which emphasized the importance of precision and safety in clinical practice.\"",
     "profession": "Medical Student",
     "country": "El Salvador",
     "stars": "5"
@@ -5213,6 +5213,286 @@
     "comment": "\" Very simple and understandable presentation. Nice job.\"",
     "profession": "Specialist Surgeon",
     "country": "India",
+    "stars": "5"
+  },
+  "Esophageal Perforation|1": {
+    "course": "Esophageal Perforation",
+    "rank": "1",
+    "comment": "\"This kind of courses are very useful for general surgeons like me and I thank everyone who took part in this initiative.\"",
+    "profession": "Physician",
+    "country": "Egypt",
+    "stars": "5"
+  },
+  "Esophageal Perforation|2": {
+    "course": "Esophageal Perforation",
+    "rank": "2",
+    "comment": "\"The details and tips and tricks were the best part along with the correct way to state an answer and establish the details when asked in oral boards. I also liked the acccess to download the pdf.\"",
+    "profession": "SURGhub Learner",
+    "country": "Pakistan",
+    "stars": "5"
+  },
+  "Esophageal Perforation|3": {
+    "course": "Esophageal Perforation",
+    "rank": "3",
+    "comment": "\"The flow of the scenario was seamless and clinically applicable across all settings. The major points were highlighted in Part B.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Kenya",
+    "stars": "5"
+  },
+  "Esophageal Perforation|4": {
+    "course": "Esophageal Perforation",
+    "rank": "4",
+    "comment": "\"Astounding course. Very much relevant and smooth in grasping concepts in surgically managing esophageal perforation. Awesome.\"",
+    "profession": "Practicing General Surgeon",
+    "country": "Sierra Leone",
+    "stars": "5"
+  },
+  "Esophageal Perforation|5": {
+    "course": "Esophageal Perforation",
+    "rank": "5",
+    "comment": "\"I liked the section that discusses intercostal flap, percutaneous drainage, conservative management, and esophageal stent.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Argentina",
+    "stars": "5"
+  },
+  "Esophageal Perforation|6": {
+    "course": "Esophageal Perforation",
+    "rank": "6",
+    "comment": "\"I did the test and got to learn something new!\"",
+    "profession": "Medical Student",
+    "country": "United States",
+    "stars": "4"
+  },
+  "Esophageal Perforation|7": {
+    "course": "Esophageal Perforation",
+    "rank": "7",
+    "comment": "\"The various scenarios and best solutions to each were a very helpful complete guide.\"",
+    "profession": "SURGhub Learner",
+    "country": "Uganda",
+    "stars": "5"
+  },
+  "Femoral Vessels|1": {
+    "course": "Femoral Vessels",
+    "rank": "1",
+    "comment": "\"My favourite parts were the sections on hemorrhage control in femoral vessel injuries, especially using tourniquets and clamps, and the surgical techniques for repairing femoral arteries and veins.\"",
+    "profession": "Medical Student",
+    "country": "Myanmar",
+    "stars": "5"
+  },
+  "Femoral Vessels|2": {
+    "course": "Femoral Vessels",
+    "rank": "2",
+    "comment": "\"I loved the surgery video.\"",
+    "profession": "SURGhub Learner",
+    "country": "",
+    "stars": "5"
+  },
+  "Femoral Vessels|3": {
+    "course": "Femoral Vessels",
+    "rank": "3",
+    "comment": "\"I enjoyed learning about the management of artery and veinous size discrepancy.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Somalia",
+    "stars": "5"
+  },
+  "Femoral Vessels|4": {
+    "course": "Femoral Vessels",
+    "rank": "4",
+    "comment": "\"I liked the case scenario and different treatment modalities.\"",
+    "profession": "SURGhub Learner",
+    "country": "Cameroon",
+    "stars": "5"
+  },
+  "Femoral Vessels|5": {
+    "course": "Femoral Vessels",
+    "rank": "5",
+    "comment": "\"Excellent video and clear, concise teaching points.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Rwanda",
+    "stars": "5"
+  },
+  "Femoral Vessels|6": {
+    "course": "Femoral Vessels",
+    "rank": "6",
+    "comment": "\"I liked the explained procedures using real videos.\"",
+    "profession": "SURGhub Learner",
+    "country": "",
+    "stars": "5"
+  },
+  "Femoral Vessels|7": {
+    "course": "Femoral Vessels",
+    "rank": "7",
+    "comment": "\"All the aspects are interesting.\"",
+    "profession": "Emergency Medicine Doctor",
+    "country": "India",
+    "stars": "5"
+  },
+  "Femoral Vessels|8": {
+    "course": "Femoral Vessels",
+    "rank": "8",
+    "comment": "\"I liked the surgical procedure on video.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Senegal",
+    "stars": "5"
+  },
+  "Liste de Contrôle de lOMS pour une Chirurgie Sûre|1": {
+    "course": "Liste de Contrôle de lOMS pour une Chirurgie Sûre",
+    "rank": "1",
+    "comment": "\"J'ai aimé la structure entièrement virtuelle et l'utilisation de matériel bibliographique à impact mondial.\"",
+    "profession": "Chirurgien spécialiste",
+    "country": "Colombie",
+    "stars": "5"
+  },
+  "Liste de Contrôle de lOMS pour une Chirurgie Sûre|2": {
+    "course": "Liste de Contrôle de lOMS pour une Chirurgie Sûre",
+    "rank": "2",
+    "comment": "\"J'ai aimé apprendre les procédures à suivre avant un événement chirurgical pour rendre la chirurgie plus sûre.\"",
+    "profession": "Médecin",
+    "country": "Le Salvador",
+    "stars": "5"
+  },
+  "Liste de Contrôle de lOMS pour une Chirurgie Sûre|3": {
+    "course": "Liste de Contrôle de lOMS pour une Chirurgie Sûre",
+    "rank": "3",
+    "comment": "\"J'ai aimé la démonstration de l'équipe dans la vidéo.\"",
+    "profession": "Professionnel de Santé Non Médecin",
+    "country": "République Démocratique du Congo",
+    "stars": "2"
+  },
+  "Liste de Contrôle de lOMS pour une Chirurgie Sûre|4": {
+    "course": "Liste de Contrôle de lOMS pour une Chirurgie Sûre",
+    "rank": "4",
+    "comment": "\"Les aspects du cours qui sont plus importants sont la première phase et la dernière phase.\"",
+    "profession": "Apprenant SURGhub",
+    "country": "",
+    "stars": "5"
+  },
+  "Liste de Contrôle de lOMS pour une Chirurgie Sûre|5": {
+    "course": "Liste de Contrôle de lOMS pour une Chirurgie Sûre",
+    "rank": "5",
+    "comment": "\"La partie la plus intéressante de ce cours était la vidéo de simulation en RDC sur la liste de contrôle de l'OMS. Très enrichissante.\"",
+    "profession": "Apprenant SURGhub",
+    "country": "",
+    "stars": "5"
+  },
+  "Liste de Contrôle de lOMS pour une Chirurgie Sûre|6": {
+    "course": "Liste de Contrôle de lOMS pour une Chirurgie Sûre",
+    "rank": "6",
+    "comment": "\"Très belle initiative. Plus de formation gratuite dans le domaine chirurgical.\"",
+    "profession": "Apprenant SURGhub",
+    "country": "",
+    "stars": "5"
+  },
+  "Liste de Contrôle de lOMS pour une Chirurgie Sûre|7": {
+    "course": "Liste de Contrôle de lOMS pour une Chirurgie Sûre",
+    "rank": "7",
+    "comment": "\"J'ai apprécié tous les aspects, en particulier l'antibioprophylaxie.\"",
+    "profession": "Apprenant SURGhub",
+    "country": "",
+    "stars": "5"
+  },
+  "Soins Fondamentaux en Brûlologie|1": {
+    "course": "Soins Fondamentaux en Brûlologie",
+    "rank": "1",
+    "comment": "\"Personnellement, j'ai été grandement instruit par tous les chapitres. Étant un tout nouveau médecin sorti de la faculté, ce cours m'a aidé à renforcer mes connaissances. Certains aspects sont particulièrement intéressants, notamment la prise en charge des brûlures et l'évaluation primaire.\"",
+    "profession": "Médecin-chef",
+    "country": "République Démocratique du Congo",
+    "stars": "5"
+  },
+  "Soins Fondamentaux en Brûlologie|2": {
+    "course": "Soins Fondamentaux en Brûlologie",
+    "rank": "2",
+    "comment": "\"Les aspects les plus intéressants étaient l’apprentissage des différents types de brûlures, les premiers soins à administrer aux patients brûlés et les méthodes de prévention des infections. J’ai aussi trouvé très utile la partie sur l’évaluation de la gravité des brûlures.\"",
+    "profession": "Aide-soignant(e)",
+    "country": "Côte d'Ivoire",
+    "stars": "5"
+  },
+  "Soins Fondamentaux en Brûlologie|3": {
+    "course": "Soins Fondamentaux en Brûlologie",
+    "rank": "3",
+    "comment": "\"Les aspects les plus intéressants sont sa pertinence dans le monde et plus particulièrement en Afrique, par exemple dans le cas de la RCA.\"",
+    "profession": "Infirmière",
+    "country": "République Centrafricaine",
+    "stars": "5"
+  },
+  "Soins Fondamentaux en Brûlologie|4": {
+    "course": "Soins Fondamentaux en Brûlologie",
+    "rank": "4",
+    "comment": "\"Le cours a bien fait le tour sur l'essentiel de la prise en charge dès la prévention primaire jusqu'à la réadaptation du patient.\"",
+    "profession": "Anesthésiste",
+    "country": "Tunisie",
+    "stars": "5"
+  },
+  "Suturing - Horizontal Mattress|1": {
+    "course": "Suturing - Horizontal Mattress",
+    "rank": "1",
+    "comment": "\"I practiced independently while the video was playing, which made the experience very engaging.\"",
+    "profession": "Medical Student",
+    "country": "India",
+    "stars": "5"
+  },
+  "Suturing - Horizontal Mattress|2": {
+    "course": "Suturing - Horizontal Mattress",
+    "rank": "2",
+    "comment": "\"Very good presentation.\"",
+    "profession": "Emergency Medicine Doctor",
+    "country": "India",
+    "stars": "5"
+  },
+  "Suturing - Horizontal Mattress|3": {
+    "course": "Suturing - Horizontal Mattress",
+    "rank": "3",
+    "comment": "\"Learned the mattress technique which will help polish my suturing.\"",
+    "profession": "Non-Physician Clinician",
+    "country": "Kenya",
+    "stars": "4"
+  },
+  "Suturing - Vertical Mattress|1": {
+    "course": "Suturing - Vertical Mattress",
+    "rank": "1",
+    "comment": "\"I felt like it was simple enough that people of all ages could follow along and understand the materials.\"",
+    "profession": "Non-Clinical Professional",
+    "country": "United States",
+    "stars": "5"
+  },
+  "Suturing - Vertical Mattress|2": {
+    "course": "Suturing - Vertical Mattress",
+    "rank": "2",
+    "comment": "\"I liked the way specifics were provided on the required depth and distance from wound edge for the near and far throws.\"",
+    "profession": "Nurse",
+    "country": "Maldives",
+    "stars": "5"
+  },
+  "Suturing - Vertical Mattress|3": {
+    "course": "Suturing - Vertical Mattress",
+    "rank": "3",
+    "comment": "\"The course was productive and really interesting. I have learned a lot.\"",
+    "profession": "SURGhub Learner",
+    "country": "",
+    "stars": "4"
+  },
+  "Suturing - Vertical Mattress|4": {
+    "course": "Suturing - Vertical Mattress",
+    "rank": "4",
+    "comment": "\"The assignments are very interesting.\"",
+    "profession": "SURGhub Learner",
+    "country": "Egypt",
+    "stars": "5"
+  },
+  "Suturing - Vertical Mattress|5": {
+    "course": "Suturing - Vertical Mattress",
+    "rank": "5",
+    "comment": "\"Very good presentation.\"",
+    "profession": "Emergency Medicine Doctor",
+    "country": "India",
+    "stars": "5"
+  },
+  "Suturing - Vertical Mattress|6": {
+    "course": "Suturing - Vertical Mattress",
+    "rank": "6",
+    "comment": "\"Great course for beginners.\"",
+    "profession": "Specialist Surgeon",
+    "country": "Mexico",
     "stars": "5"
   }
 }
