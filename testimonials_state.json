@@ -5494,5 +5494,61 @@
     "profession": "Specialist Surgeon",
     "country": "Mexico",
     "stars": "5"
+  },
+  "Liste de Contrôle de l'OMS pour une Chirurgie Sûre|1": {
+    "course": "Liste de Contrôle de l'OMS pour une Chirurgie Sûre",
+    "rank": "1",
+    "comment": "\"J'ai aimé la structure entièrement virtuelle et l'utilisation de matériel bibliographique à impact mondial.\"",
+    "profession": "Chirurgien spécialiste",
+    "country": "Colombie",
+    "stars": "5"
+  },
+  "Liste de Contrôle de l'OMS pour une Chirurgie Sûre|2": {
+    "course": "Liste de Contrôle de l'OMS pour une Chirurgie Sûre",
+    "rank": "2",
+    "comment": "\"J'ai aimé apprendre les procédures à suivre avant un événement chirurgical pour rendre la chirurgie plus sûre.\"",
+    "profession": "Médecin",
+    "country": "Le Salvador",
+    "stars": "5"
+  },
+  "Liste de Contrôle de l'OMS pour une Chirurgie Sûre|3": {
+    "course": "Liste de Contrôle de l'OMS pour une Chirurgie Sûre",
+    "rank": "3",
+    "comment": "\"J'ai aimé la démonstration de l'équipe dans la vidéo.\"",
+    "profession": "Professionnel de Santé Non Médecin",
+    "country": "République Démocratique du Congo",
+    "stars": "2"
+  },
+  "Liste de Contrôle de l'OMS pour une Chirurgie Sûre|4": {
+    "course": "Liste de Contrôle de l'OMS pour une Chirurgie Sûre",
+    "rank": "4",
+    "comment": "\"Les aspects du cours qui sont plus importants sont la première phase et la dernière phase.\"",
+    "profession": "Apprenant SURGhub",
+    "country": "",
+    "stars": "5"
+  },
+  "Liste de Contrôle de l'OMS pour une Chirurgie Sûre|5": {
+    "course": "Liste de Contrôle de l'OMS pour une Chirurgie Sûre",
+    "rank": "5",
+    "comment": "\"La partie la plus intéressante de ce cours était la vidéo de simulation en RDC sur la liste de contrôle de l'OMS. Très enrichissante.\"",
+    "profession": "Apprenant SURGhub",
+    "country": "",
+    "stars": "5"
+  },
+  "Liste de Contrôle de l'OMS pour une Chirurgie Sûre|6": {
+    "course": "Liste de Contrôle de l'OMS pour une Chirurgie Sûre",
+    "rank": "6",
+    "comment": "\"Très belle initiative. Plus de formation gratuite dans le domaine chirurgical.\"",
+    "profession": "Apprenant SURGhub",
+    "country": "",
+    "stars": "5"
+  },
+  "Liste de Contrôle de l'OMS pour une Chirurgie Sûre|7": {
+    "course": "Liste de Contrôle de l'OMS pour une Chirurgie Sûre",
+    "rank": "7",
+    "comment": "\"J'ai apprécié tous les aspects, en particulier l'antibioprophylaxie.\"",
+    "profession": "Apprenant SURGhub",
+    "country": "",
+    "stars": "5"
   }
 }
